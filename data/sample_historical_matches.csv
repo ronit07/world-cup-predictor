@@ -1,0 +1,601 @@
+date,home_team,away_team,home_goals,away_goals,stage,neutral
+2018-01-02,England,Germany,2,1,friendly,False
+2018-01-02,Uzbekistan,Croatia,0,1,friendly,False
+2018-01-02,Mexico,Ecuador,1,1,qualifier,True
+2018-01-04,South Africa,Spain,0,2,friendly,False
+2018-01-04,Croatia,Netherlands,1,3,continental,False
+2018-01-11,USA,New Zealand,0,2,friendly,False
+2018-01-18,South Africa,Colombia,0,2,qualifier,False
+2018-01-21,South Korea,Tunisia,3,0,friendly,False
+2018-01-26,Ivory Coast,USA,1,1,qualifier,True
+2018-01-28,Iraq,Brazil,2,2,continental,False
+2018-02-03,Italy,Croatia,1,3,friendly,False
+2018-02-03,Colombia,Mexico,4,2,continental,False
+2018-02-21,Uruguay,Ghana,3,1,continental,False
+2018-02-21,Iran,Uruguay,1,1,continental,True
+2018-02-28,DR Congo,Curacao,2,1,continental,False
+2018-03-08,Belgium,Costa Rica,2,1,continental,False
+2018-03-17,Mexico,Colombia,2,1,continental,False
+2018-03-18,England,Iraq,2,0,qualifier,True
+2018-03-19,Ghana,England,0,2,friendly,False
+2018-03-21,Cape Verde,DR Congo,0,1,qualifier,False
+2018-04-03,USA,Mexico,2,3,continental,False
+2018-04-06,Morocco,Denmark,2,0,qualifier,False
+2018-04-07,Saudi Arabia,Jamaica,2,4,qualifier,False
+2018-04-17,Egypt,Uruguay,0,2,friendly,True
+2018-04-28,South Korea,Senegal,0,0,continental,False
+2018-05-04,Belgium,Saudi Arabia,1,1,qualifier,True
+2018-05-04,South Korea,Croatia,2,3,friendly,False
+2018-05-12,Australia,Mexico,0,3,friendly,False
+2018-05-24,Iran,Australia,4,0,continental,True
+2018-05-27,Ghana,USA,2,1,continental,True
+2018-05-27,Ecuador,Japan,0,1,friendly,True
+2018-06-03,Tunisia,Costa Rica,1,3,continental,True
+2018-06-06,Qatar,Panama,2,0,friendly,False
+2018-06-07,South Africa,Jordan,1,0,friendly,False
+2018-06-07,South Africa,Denmark,1,2,friendly,True
+2018-06-11,Jordan,Saudi Arabia,4,0,qualifier,True
+2018-06-13,Uruguay,Italy,1,2,qualifier,False
+2018-06-13,Italy,Haiti,2,1,friendly,False
+2018-06-17,Brazil,Croatia,2,0,qualifier,False
+2018-06-19,Canada,Iraq,2,0,qualifier,True
+2018-06-22,Uruguay,Italy,2,1,continental,False
+2018-07-01,Portugal,Japan,0,2,qualifier,False
+2018-07-01,Ecuador,Jordan,4,0,qualifier,False
+2018-07-10,Brazil,Poland,4,1,friendly,False
+2018-07-11,France,Iran,2,0,continental,False
+2018-07-13,Portugal,Croatia,1,0,continental,True
+2018-08-21,Peru,Uzbekistan,2,1,qualifier,False
+2018-08-23,Canada,Croatia,2,2,friendly,False
+2018-08-24,Jamaica,Haiti,5,0,continental,False
+2018-09-05,Uzbekistan,Germany,0,3,friendly,False
+2018-09-18,Argentina,Brazil,3,2,continental,True
+2018-09-26,Argentina,Spain,2,0,qualifier,False
+2018-10-02,Uruguay,Iraq,3,0,continental,False
+2018-10-04,Uzbekistan,Senegal,1,3,qualifier,False
+2018-10-05,Uzbekistan,Uruguay,1,1,qualifier,False
+2018-10-09,Iran,Canada,1,3,friendly,True
+2018-10-21,Spain,Peru,1,1,continental,False
+2018-10-22,Cape Verde,Spain,0,1,friendly,False
+2018-10-28,Peru,Colombia,1,0,continental,True
+2018-11-01,Saudi Arabia,Costa Rica,2,0,continental,False
+2018-11-10,Argentina,Haiti,1,1,continental,True
+2018-11-11,Iran,Algeria,0,4,friendly,True
+2018-11-16,Denmark,Haiti,3,0,qualifier,False
+2018-11-18,Netherlands,Canada,2,1,continental,False
+2018-11-19,Germany,Saudi Arabia,2,2,continental,False
+2018-11-23,Panama,Senegal,2,1,continental,False
+2018-12-10,Poland,Belgium,0,2,qualifier,False
+2018-12-10,Netherlands,Canada,3,4,friendly,True
+2018-12-14,Poland,Jamaica,3,0,qualifier,False
+2018-12-14,New Zealand,Jordan,1,3,friendly,True
+2019-01-01,Ghana,Nigeria,1,0,qualifier,False
+2019-01-14,Egypt,Iraq,0,2,continental,False
+2019-01-14,Morocco,Saudi Arabia,0,1,friendly,True
+2019-01-20,Italy,Iraq,3,1,friendly,True
+2019-01-22,South Korea,Netherlands,1,0,friendly,False
+2019-01-25,Portugal,Algeria,3,1,continental,False
+2019-01-26,Jordan,DR Congo,1,0,qualifier,True
+2019-01-26,Morocco,Colombia,2,1,qualifier,False
+2019-01-27,DR Congo,Ecuador,0,3,friendly,False
+2019-01-27,Algeria,Uruguay,1,4,qualifier,False
+2019-01-28,Croatia,Germany,4,2,qualifier,False
+2019-02-04,Nigeria,Costa Rica,2,3,qualifier,False
+2019-02-09,Jamaica,Panama,4,4,continental,False
+2019-02-10,Saudi Arabia,Iraq,3,0,continental,False
+2019-02-14,Iran,Panama,1,1,qualifier,False
+2019-02-26,Qatar,Denmark,1,3,qualifier,False
+2019-03-06,Egypt,Costa Rica,3,0,qualifier,True
+2019-03-22,Colombia,USA,1,2,continental,False
+2019-03-23,Tunisia,Costa Rica,6,1,friendly,False
+2019-04-02,Serbia,Cape Verde,2,2,qualifier,False
+2019-04-02,Canada,Uzbekistan,2,2,continental,True
+2019-04-03,Qatar,Morocco,1,1,continental,True
+2019-04-05,Saudi Arabia,Nigeria,0,4,friendly,False
+2019-04-05,Ghana,Portugal,1,1,qualifier,False
+2019-04-15,Netherlands,Peru,0,1,friendly,False
+2019-04-15,Curacao,Switzerland,1,1,friendly,True
+2019-04-16,Colombia,Argentina,2,1,friendly,False
+2019-04-20,Saudi Arabia,Panama,0,4,friendly,True
+2019-04-28,Argentina,Cape Verde,7,1,friendly,False
+2019-05-01,Senegal,England,0,2,continental,False
+2019-05-02,Italy,USA,2,3,continental,False
+2019-05-10,Serbia,Nigeria,2,1,qualifier,False
+2019-05-11,Spain,Jordan,5,1,continental,False
+2019-05-13,Haiti,Saudi Arabia,1,1,qualifier,False
+2019-05-13,Peru,Haiti,2,3,qualifier,False
+2019-05-15,Egypt,Poland,1,0,friendly,False
+2019-05-16,Jordan,Costa Rica,1,1,continental,False
+2019-05-16,Belgium,Haiti,8,0,qualifier,False
+2019-05-17,Portugal,Croatia,1,1,friendly,False
+2019-05-28,Portugal,Japan,3,1,friendly,True
+2019-06-01,Australia,Cape Verde,4,1,continental,False
+2019-06-07,Iraq,Netherlands,3,1,qualifier,False
+2019-06-11,Ghana,Poland,4,0,continental,True
+2019-06-13,Denmark,Nigeria,1,4,qualifier,True
+2019-06-14,Australia,Spain,6,0,qualifier,False
+2019-06-15,Netherlands,Mexico,1,2,friendly,True
+2019-06-19,Ecuador,Italy,0,0,friendly,False
+2019-06-26,Netherlands,Colombia,2,1,qualifier,False
+2019-06-27,Italy,Morocco,2,2,qualifier,True
+2019-07-10,Argentina,England,2,1,qualifier,True
+2019-07-13,Croatia,Curacao,3,1,continental,True
+2019-07-19,England,Costa Rica,0,0,continental,False
+2019-07-19,Jamaica,Haiti,1,1,qualifier,True
+2019-08-11,Brazil,Netherlands,2,0,continental,False
+2019-09-12,Panama,Italy,1,2,qualifier,False
+2019-09-13,Australia,DR Congo,0,1,qualifier,False
+2019-09-24,Jamaica,Germany,2,0,friendly,True
+2019-09-25,Portugal,Senegal,1,2,friendly,True
+2019-10-16,Tunisia,Iraq,0,2,friendly,True
+2019-10-21,Brazil,Costa Rica,2,0,friendly,False
+2019-10-24,Canada,Curacao,1,0,continental,False
+2019-11-02,Colombia,Poland,1,0,qualifier,False
+2019-11-04,Denmark,Algeria,1,0,qualifier,True
+2019-11-08,Germany,Serbia,1,2,qualifier,True
+2019-11-15,Japan,Mexico,1,0,friendly,False
+2019-11-17,Jordan,Qatar,2,4,friendly,True
+2019-11-18,Morocco,Poland,1,0,continental,False
+2019-11-19,Saudi Arabia,Belgium,2,3,friendly,True
+2019-11-21,Mexico,Morocco,0,0,qualifier,True
+2019-11-24,Jamaica,Qatar,2,2,continental,False
+2019-11-24,Nigeria,Morocco,3,1,friendly,False
+2019-12-07,Argentina,Peru,1,1,continental,True
+2019-12-13,Peru,Uruguay,1,3,qualifier,False
+2019-12-13,Australia,Colombia,2,3,friendly,False
+2019-12-17,Mexico,Costa Rica,1,2,continental,True
+2019-12-17,Jamaica,Nigeria,1,2,continental,True
+2019-12-27,Denmark,Colombia,0,3,qualifier,False
+2019-12-28,France,Saudi Arabia,3,0,qualifier,True
+2020-01-09,Ghana,Netherlands,0,1,friendly,False
+2020-01-14,Iraq,Nigeria,0,2,friendly,False
+2020-01-24,Mexico,South Africa,2,1,qualifier,False
+2020-01-25,England,Panama,1,0,friendly,True
+2020-02-11,Haiti,Iraq,0,1,qualifier,True
+2020-02-26,Iraq,Saudi Arabia,3,2,continental,False
+2020-03-01,Poland,Ivory Coast,2,2,friendly,False
+2020-03-25,Cape Verde,Ivory Coast,0,2,continental,True
+2020-03-26,Australia,New Zealand,2,0,friendly,False
+2020-04-11,Italy,Denmark,2,2,friendly,True
+2020-04-14,Qatar,Poland,3,2,qualifier,False
+2020-04-19,Netherlands,Nigeria,2,0,qualifier,False
+2020-04-19,Germany,Argentina,3,1,continental,False
+2020-05-02,Saudi Arabia,Egypt,0,1,friendly,True
+2020-05-04,Iraq,Senegal,2,4,continental,False
+2020-05-06,Nigeria,Iraq,3,3,friendly,False
+2020-05-11,Iran,Netherlands,1,2,friendly,True
+2020-05-12,Germany,Ivory Coast,3,1,friendly,True
+2020-05-14,Egypt,Ghana,0,1,qualifier,False
+2020-05-20,Belgium,England,0,3,qualifier,False
+2020-05-24,New Zealand,Denmark,1,2,qualifier,False
+2020-05-25,Iraq,Croatia,0,3,continental,False
+2020-06-06,Canada,Uruguay,1,0,friendly,False
+2020-06-08,Spain,Saudi Arabia,1,1,continental,False
+2020-06-12,Mexico,Panama,5,0,qualifier,True
+2020-06-18,Tunisia,Germany,0,2,friendly,False
+2020-06-20,Netherlands,Australia,3,1,friendly,False
+2020-06-25,Mexico,Italy,2,1,friendly,False
+2020-07-07,Argentina,Uzbekistan,6,0,continental,False
+2020-07-10,Argentina,Haiti,1,2,friendly,False
+2020-07-12,Morocco,USA,3,0,friendly,False
+2020-07-12,Peru,Uruguay,0,0,friendly,False
+2020-07-13,Denmark,England,2,2,continental,False
+2020-07-19,Brazil,Qatar,2,0,qualifier,False
+2020-07-20,Saudi Arabia,Nigeria,1,2,continental,False
+2020-07-25,Poland,Tunisia,1,1,qualifier,False
+2020-07-28,Portugal,Croatia,2,0,continental,False
+2020-07-28,Senegal,Brazil,0,2,continental,False
+2020-07-28,South Africa,Belgium,3,2,qualifier,False
+2020-08-01,Iraq,France,1,1,continental,False
+2020-08-09,Jordan,South Africa,0,1,friendly,False
+2020-08-19,Argentina,South Korea,2,1,qualifier,False
+2020-08-25,Poland,Ghana,2,1,qualifier,True
+2020-08-25,DR Congo,Morocco,1,1,friendly,False
+2020-09-01,Ivory Coast,Italy,2,3,qualifier,False
+2020-09-04,Belgium,Iran,0,1,qualifier,False
+2020-09-05,Ghana,DR Congo,2,1,friendly,True
+2020-09-06,Brazil,DR Congo,3,1,continental,False
+2020-09-10,Jordan,Curacao,2,1,friendly,False
+2020-09-10,Costa Rica,Belgium,0,2,continental,True
+2020-10-01,Italy,Saudi Arabia,4,1,friendly,False
+2020-10-04,Haiti,South Korea,1,1,qualifier,True
+2020-10-13,Nigeria,Netherlands,0,1,qualifier,False
+2020-10-15,Jamaica,Tunisia,0,2,qualifier,False
+2020-10-21,Belgium,Iran,2,2,friendly,True
+2020-10-27,Peru,Germany,0,3,qualifier,False
+2020-10-27,Brazil,Jamaica,3,1,friendly,False
+2020-11-01,Jamaica,Netherlands,1,1,qualifier,True
+2020-11-04,Curacao,DR Congo,1,0,qualifier,False
+2020-11-06,Denmark,Peru,1,2,friendly,False
+2020-11-11,Serbia,Saudi Arabia,4,1,friendly,False
+2020-11-12,Egypt,Mexico,1,4,continental,True
+2020-11-19,Germany,Panama,4,1,qualifier,False
+2020-11-20,Tunisia,South Korea,2,0,continental,False
+2020-11-23,Denmark,Iraq,2,1,continental,True
+2020-11-26,Mexico,Egypt,0,1,qualifier,True
+2020-12-02,South Korea,New Zealand,2,1,continental,False
+2020-12-05,Qatar,Colombia,2,0,friendly,True
+2020-12-21,Spain,Morocco,3,0,continental,False
+2020-12-25,Uruguay,England,2,1,friendly,False
+2021-01-09,Canada,Serbia,1,1,friendly,False
+2021-01-14,Australia,Curacao,3,0,friendly,True
+2021-01-15,Saudi Arabia,Spain,3,1,continental,True
+2021-01-16,South Korea,Poland,3,1,qualifier,False
+2021-01-18,England,New Zealand,0,1,friendly,False
+2021-01-18,Italy,Mexico,3,1,continental,False
+2021-01-24,Ecuador,Mexico,2,3,qualifier,False
+2021-01-27,Japan,Brazil,1,5,qualifier,False
+2021-02-01,Jamaica,Morocco,3,0,friendly,False
+2021-02-03,Uzbekistan,Switzerland,0,0,qualifier,False
+2021-02-09,Costa Rica,Senegal,1,1,friendly,False
+2021-02-12,USA,Belgium,1,3,continental,True
+2021-02-14,South Korea,Ghana,2,1,qualifier,False
+2021-02-19,Nigeria,Australia,2,2,qualifier,True
+2021-02-19,Iran,Canada,0,1,friendly,False
+2021-03-01,Ghana,Jordan,3,0,friendly,False
+2021-03-13,Uzbekistan,Qatar,1,0,friendly,True
+2021-03-16,Haiti,Belgium,0,2,qualifier,False
+2021-03-23,Poland,Costa Rica,2,1,qualifier,True
+2021-04-02,Uzbekistan,Nigeria,2,1,friendly,False
+2021-04-10,Spain,Jordan,3,0,friendly,False
+2021-04-17,Argentina,Iran,2,0,friendly,False
+2021-04-27,Iran,Iraq,3,1,qualifier,True
+2021-05-02,Ecuador,Jamaica,1,1,friendly,False
+2021-05-05,Spain,Netherlands,2,2,friendly,False
+2021-05-11,Peru,Netherlands,2,1,qualifier,True
+2021-05-14,Australia,Iran,1,3,qualifier,False
+2021-05-15,Colombia,Denmark,2,0,continental,False
+2021-05-20,Panama,Jamaica,1,1,friendly,False
+2021-05-21,Brazil,Panama,1,0,qualifier,False
+2021-05-23,Curacao,Germany,1,1,qualifier,False
+2021-05-25,New Zealand,Switzerland,0,0,friendly,True
+2021-05-27,Iran,Saudi Arabia,1,0,continental,False
+2021-06-03,Mexico,Italy,3,1,qualifier,True
+2021-06-07,Algeria,Ecuador,1,0,qualifier,False
+2021-06-08,Uzbekistan,Peru,1,0,friendly,False
+2021-06-12,Peru,Colombia,3,1,continental,False
+2021-06-21,Denmark,Germany,0,1,friendly,False
+2021-06-25,Japan,Egypt,1,0,qualifier,False
+2021-07-05,Algeria,Netherlands,1,3,friendly,True
+2021-07-10,Costa Rica,Spain,0,6,qualifier,True
+2021-07-13,England,Morocco,0,2,qualifier,False
+2021-07-13,Italy,Jordan,3,0,continental,False
+2021-07-15,USA,Denmark,4,1,friendly,False
+2021-07-19,New Zealand,South Korea,1,2,qualifier,False
+2021-07-20,Curacao,Panama,0,1,friendly,False
+2021-07-28,Ivory Coast,Ecuador,1,1,continental,True
+2021-08-08,New Zealand,Senegal,2,1,friendly,False
+2021-08-09,France,Costa Rica,5,0,qualifier,False
+2021-08-11,Morocco,Qatar,2,0,qualifier,False
+2021-08-17,Nigeria,Senegal,2,0,friendly,False
+2021-08-19,USA,Mexico,1,1,continental,True
+2021-08-21,Croatia,Germany,0,0,continental,False
+2021-08-24,Germany,Peru,3,0,continental,True
+2021-09-16,England,Iraq,3,1,qualifier,False
+2021-09-18,Saudi Arabia,Australia,1,0,continental,False
+2021-09-24,Japan,Belgium,3,6,friendly,True
+2021-10-04,Germany,Tunisia,0,1,continental,False
+2021-10-10,Germany,Uzbekistan,3,0,friendly,False
+2021-10-12,Cape Verde,Germany,1,1,continental,False
+2021-10-15,Australia,Jamaica,1,3,qualifier,False
+2021-10-17,Serbia,Italy,1,3,qualifier,False
+2021-10-20,Serbia,Iran,0,1,qualifier,False
+2021-10-25,Ecuador,Spain,1,2,qualifier,False
+2021-10-26,Curacao,Senegal,4,3,friendly,True
+2021-11-04,DR Congo,Uzbekistan,5,1,friendly,False
+2021-11-12,Egypt,Mexico,2,3,qualifier,False
+2021-11-14,Costa Rica,Cape Verde,0,1,qualifier,False
+2021-11-21,Tunisia,England,0,1,continental,False
+2021-11-21,Serbia,Haiti,1,1,friendly,False
+2021-11-24,Canada,Ghana,2,3,friendly,False
+2021-12-02,Peru,Belgium,0,1,friendly,False
+2021-12-03,Nigeria,Spain,0,0,continental,False
+2021-12-03,Spain,South Korea,3,3,qualifier,False
+2021-12-05,Senegal,Haiti,3,1,friendly,True
+2021-12-06,Uruguay,Germany,1,2,friendly,False
+2021-12-07,Portugal,Qatar,1,1,friendly,True
+2021-12-07,Brazil,Senegal,1,2,continental,True
+2021-12-08,Qatar,Japan,0,1,qualifier,False
+2021-12-12,Ghana,Morocco,3,0,friendly,False
+2021-12-22,Switzerland,Belgium,1,3,friendly,True
+2021-12-24,England,Costa Rica,3,1,friendly,False
+2021-12-28,Saudi Arabia,Netherlands,1,4,friendly,False
+2022-01-01,Cape Verde,Uruguay,1,6,friendly,True
+2022-01-01,Jamaica,Mexico,1,0,friendly,True
+2022-01-05,Canada,Poland,1,1,friendly,False
+2022-01-19,England,Croatia,2,0,qualifier,False
+2022-01-23,Tunisia,Japan,0,3,qualifier,True
+2022-01-23,Switzerland,Iraq,2,1,friendly,False
+2022-01-28,South Korea,Argentina,2,0,continental,True
+2022-02-15,South Korea,Curacao,0,0,continental,True
+2022-02-17,Italy,Algeria,1,1,qualifier,False
+2022-02-20,Denmark,Colombia,0,2,qualifier,True
+2022-02-21,Costa Rica,Portugal,0,4,qualifier,False
+2022-02-24,Ivory Coast,Australia,2,2,continental,True
+2022-03-02,South Africa,Ecuador,0,2,qualifier,True
+2022-03-07,Panama,Ivory Coast,2,1,qualifier,False
+2022-03-11,USA,Spain,1,4,continental,False
+2022-03-13,Poland,Brazil,1,1,continental,False
+2022-03-14,Ivory Coast,Costa Rica,1,0,continental,False
+2022-03-17,Australia,Ivory Coast,0,2,friendly,False
+2022-03-21,Argentina,Germany,3,3,qualifier,True
+2022-03-22,Belgium,Colombia,3,1,continental,True
+2022-03-23,Uzbekistan,Brazil,0,1,qualifier,True
+2022-04-02,Germany,Jamaica,4,0,friendly,False
+2022-04-03,Haiti,Netherlands,2,3,continental,True
+2022-04-10,Tunisia,Colombia,0,2,continental,False
+2022-04-12,Iran,Jamaica,0,0,friendly,False
+2022-04-13,France,Tunisia,1,1,continental,False
+2022-04-23,Japan,Panama,0,4,friendly,True
+2022-04-28,DR Congo,Germany,2,0,continental,True
+2022-05-03,Peru,Senegal,0,1,qualifier,False
+2022-05-20,Haiti,Argentina,0,1,friendly,True
+2022-05-21,Iraq,Jamaica,2,1,friendly,False
+2022-06-05,Spain,South Africa,3,1,continental,True
+2022-06-08,Egypt,Switzerland,1,1,qualifier,False
+2022-06-18,Ecuador,Egypt,1,0,friendly,False
+2022-06-19,Colombia,Morocco,0,2,continental,True
+2022-06-25,Canada,Serbia,0,5,friendly,False
+2022-06-26,Mexico,Italy,1,2,friendly,True
+2022-06-27,Tunisia,Japan,2,3,qualifier,False
+2022-07-02,Iraq,Portugal,0,4,friendly,False
+2022-07-04,Costa Rica,South Africa,1,0,qualifier,False
+2022-07-06,Germany,Argentina,2,1,friendly,True
+2022-07-07,Spain,Qatar,2,1,friendly,False
+2022-07-10,Iraq,Panama,0,1,continental,True
+2022-07-13,Algeria,Uzbekistan,0,0,friendly,False
+2022-07-19,Panama,Italy,1,1,qualifier,False
+2022-07-20,Ecuador,Argentina,2,2,qualifier,False
+2022-07-21,Peru,Serbia,1,0,friendly,False
+2022-07-27,Argentina,Denmark,2,1,friendly,False
+2022-08-07,Canada,Australia,0,2,continental,False
+2022-08-11,South Korea,Uzbekistan,5,1,continental,False
+2022-08-20,Senegal,Mexico,2,2,continental,False
+2022-08-27,Denmark,Portugal,2,1,continental,True
+2022-09-07,Qatar,Mexico,2,4,qualifier,False
+2022-09-07,Canada,Costa Rica,0,1,friendly,False
+2022-09-13,Saudi Arabia,Japan,1,0,continental,True
+2022-09-20,New Zealand,Costa Rica,1,2,qualifier,True
+2022-09-21,Morocco,England,0,2,friendly,False
+2022-09-23,Curacao,Argentina,2,0,qualifier,False
+2022-09-23,Haiti,Canada,1,2,qualifier,False
+2022-09-27,Switzerland,Serbia,0,1,continental,True
+2022-10-03,Saudi Arabia,Costa Rica,2,1,friendly,False
+2022-10-05,Nigeria,Argentina,1,2,friendly,False
+2022-10-08,Portugal,Haiti,5,0,continental,False
+2022-10-19,Colombia,Spain,1,0,friendly,False
+2022-10-19,Ecuador,Argentina,1,4,qualifier,False
+2022-10-19,Portugal,England,1,1,qualifier,False
+2022-10-22,Ivory Coast,Canada,0,0,continental,False
+2022-10-25,Cape Verde,Poland,0,2,friendly,False
+2022-11-01,Ghana,Uruguay,0,1,friendly,False
+2022-11-05,England,Senegal,3,1,friendly,True
+2022-11-08,Switzerland,Iraq,3,1,friendly,False
+2022-11-25,Qatar,Brazil,0,2,friendly,False
+2022-11-26,New Zealand,Tunisia,1,2,friendly,False
+2022-12-02,Japan,USA,0,1,qualifier,False
+2022-12-12,Uruguay,Netherlands,1,1,continental,False
+2022-12-16,USA,Japan,0,3,friendly,False
+2022-12-20,Canada,Ecuador,1,2,continental,False
+2022-12-25,Germany,Costa Rica,3,1,friendly,True
+2023-01-08,Spain,Curacao,3,2,continental,False
+2023-01-11,Italy,Serbia,1,1,qualifier,False
+2023-01-20,Saudi Arabia,Algeria,1,1,continental,False
+2023-02-07,Japan,Algeria,2,2,continental,False
+2023-02-08,Canada,Nigeria,2,0,qualifier,False
+2023-02-18,Uruguay,Netherlands,2,0,continental,False
+2023-02-22,South Africa,Germany,0,2,friendly,False
+2023-02-24,Qatar,Poland,0,2,qualifier,False
+2023-02-25,Italy,Argentina,0,5,friendly,True
+2023-02-28,Brazil,Morocco,2,1,continental,False
+2023-03-02,Egypt,Uzbekistan,0,0,friendly,False
+2023-03-03,New Zealand,Curacao,0,0,friendly,False
+2023-03-07,Croatia,New Zealand,0,1,continental,False
+2023-03-15,Saudi Arabia,Italy,1,1,qualifier,False
+2023-03-22,Spain,Australia,3,0,friendly,False
+2023-03-23,Switzerland,Argentina,1,2,continental,True
+2023-03-23,Croatia,Saudi Arabia,4,3,continental,True
+2023-03-23,Iran,Poland,3,0,friendly,False
+2023-04-10,Croatia,New Zealand,2,1,qualifier,False
+2023-04-14,Jamaica,Mexico,1,1,friendly,False
+2023-04-15,Egypt,South Africa,3,3,continental,True
+2023-04-16,Iraq,Qatar,0,1,qualifier,True
+2023-04-21,Poland,Iran,1,0,qualifier,False
+2023-04-28,England,Ecuador,5,0,qualifier,False
+2023-05-08,South Africa,Uruguay,1,2,qualifier,False
+2023-06-01,Algeria,Nigeria,1,1,qualifier,False
+2023-06-08,Denmark,Ivory Coast,1,1,qualifier,False
+2023-06-23,Spain,Jamaica,4,2,qualifier,False
+2023-06-25,Japan,Canada,2,0,friendly,False
+2023-06-27,Canada,South Africa,3,1,continental,True
+2023-07-01,Senegal,Tunisia,1,0,continental,False
+2023-07-11,Ecuador,Ghana,2,2,qualifier,False
+2023-07-13,Egypt,England,2,1,friendly,False
+2023-07-14,Denmark,Serbia,1,1,friendly,False
+2023-07-28,Mexico,Iran,3,1,continental,False
+2023-08-17,South Africa,Saudi Arabia,3,1,continental,False
+2023-08-18,New Zealand,USA,0,2,qualifier,False
+2023-08-22,Japan,Denmark,0,0,qualifier,True
+2023-08-23,Panama,Jordan,0,0,continental,False
+2023-08-25,Tunisia,Belgium,1,1,friendly,False
+2023-08-26,Peru,Japan,1,2,continental,True
+2023-09-08,Japan,Jordan,2,2,qualifier,False
+2023-09-11,Peru,Qatar,2,3,qualifier,True
+2023-09-21,Australia,Peru,0,2,friendly,False
+2023-10-03,Jordan,Mexico,0,4,continental,False
+2023-10-09,Argentina,Spain,1,2,friendly,False
+2023-10-12,Brazil,Panama,3,0,qualifier,False
+2023-10-21,Poland,Japan,0,0,continental,False
+2023-10-24,Senegal,New Zealand,1,1,friendly,False
+2023-11-04,DR Congo,Nigeria,2,2,friendly,True
+2023-11-19,New Zealand,Ecuador,0,1,friendly,False
+2023-11-20,Argentina,Costa Rica,1,1,continental,False
+2023-11-21,Uzbekistan,Brazil,0,0,qualifier,False
+2023-12-01,Japan,Denmark,5,1,continental,False
+2023-12-02,Serbia,Jamaica,1,1,continental,False
+2023-12-04,Uruguay,Poland,2,4,friendly,False
+2023-12-05,Brazil,Croatia,1,0,qualifier,False
+2023-12-09,Iraq,Canada,4,0,qualifier,False
+2023-12-12,Mexico,Italy,1,0,continental,False
+2023-12-15,Canada,Portugal,0,0,qualifier,True
+2023-12-17,Poland,Ghana,3,2,continental,False
+2023-12-28,Saudi Arabia,Spain,1,3,qualifier,True
+2024-01-07,Netherlands,New Zealand,5,0,qualifier,False
+2024-01-13,Peru,France,0,2,friendly,False
+2024-01-22,Australia,Cape Verde,3,0,continental,False
+2024-01-23,England,Morocco,2,0,friendly,True
+2024-01-24,Iraq,Switzerland,0,1,friendly,False
+2024-02-02,Canada,South Korea,1,0,continental,False
+2024-02-03,Uzbekistan,Nigeria,2,2,friendly,False
+2024-02-12,Curacao,Netherlands,0,4,qualifier,False
+2024-02-12,Tunisia,Belgium,2,0,qualifier,False
+2024-02-19,Germany,Argentina,0,1,continental,True
+2024-02-21,Colombia,Iraq,1,3,continental,True
+2024-02-23,Peru,Ecuador,3,1,continental,True
+2024-03-02,Switzerland,Qatar,3,3,continental,True
+2024-03-15,USA,Curacao,4,2,friendly,True
+2024-03-21,Uzbekistan,France,0,2,qualifier,True
+2024-03-25,Netherlands,Jamaica,3,2,qualifier,False
+2024-03-28,Haiti,Japan,1,1,friendly,False
+2024-04-02,Portugal,Germany,2,1,qualifier,False
+2024-04-05,Senegal,Egypt,1,2,friendly,False
+2024-04-09,Switzerland,Uruguay,0,0,continental,False
+2024-04-22,Tunisia,DR Congo,3,1,continental,False
+2024-04-26,Tunisia,Ecuador,2,0,qualifier,True
+2024-04-27,Peru,Qatar,2,0,continental,False
+2024-05-01,USA,Curacao,4,0,qualifier,False
+2024-05-08,Belgium,Japan,5,0,friendly,False
+2024-05-12,Denmark,Portugal,0,1,qualifier,True
+2024-05-14,Netherlands,Peru,2,0,qualifier,False
+2024-06-02,Iraq,Mexico,1,2,continental,False
+2024-06-02,Nigeria,Cape Verde,2,0,continental,False
+2024-06-03,Tunisia,Italy,1,3,qualifier,True
+2024-06-15,Spain,New Zealand,1,1,continental,True
+2024-06-22,USA,Costa Rica,1,1,qualifier,True
+2024-07-02,Nigeria,South Africa,0,0,friendly,False
+2024-07-13,Uzbekistan,Curacao,0,0,qualifier,False
+2024-07-17,Brazil,USA,2,1,qualifier,True
+2024-07-22,Denmark,Curacao,2,2,qualifier,False
+2024-07-22,Costa Rica,Haiti,1,3,friendly,True
+2024-07-25,Colombia,Qatar,1,1,qualifier,False
+2024-07-28,Serbia,Cape Verde,1,1,continental,True
+2024-08-05,Serbia,Peru,0,0,continental,True
+2024-08-06,Brazil,Spain,2,3,continental,True
+2024-08-10,Algeria,USA,0,1,continental,False
+2024-08-11,Senegal,Saudi Arabia,4,1,continental,True
+2024-09-01,Jordan,Colombia,3,3,friendly,False
+2024-09-05,Nigeria,Haiti,4,1,continental,False
+2024-09-10,Haiti,Curacao,1,2,continental,False
+2024-09-12,Canada,Uruguay,2,4,friendly,True
+2024-09-14,Iran,Spain,1,1,qualifier,True
+2024-09-17,Curacao,France,0,3,friendly,False
+2024-09-25,Ivory Coast,Nigeria,2,1,friendly,True
+2024-10-05,Colombia,Egypt,4,0,qualifier,False
+2024-10-09,Curacao,Canada,0,1,continental,False
+2024-10-21,Denmark,Uruguay,1,0,continental,False
+2024-10-25,Uzbekistan,Canada,0,2,friendly,True
+2024-10-28,DR Congo,Croatia,2,2,friendly,False
+2024-11-03,Switzerland,Panama,2,0,continental,True
+2024-11-06,Belgium,Curacao,3,2,continental,False
+2024-11-11,Switzerland,South Korea,2,0,friendly,False
+2024-11-18,Jamaica,Peru,0,1,friendly,True
+2024-11-19,Croatia,Australia,3,0,friendly,False
+2024-11-22,New Zealand,Costa Rica,0,4,continental,False
+2024-12-03,Iraq,Ecuador,1,0,qualifier,False
+2024-12-04,Mexico,Spain,0,1,qualifier,False
+2024-12-08,Morocco,Canada,0,0,continental,False
+2024-12-14,Ivory Coast,Poland,2,2,continental,True
+2024-12-20,Morocco,South Korea,0,1,friendly,False
+2024-12-23,Italy,Brazil,2,1,continental,False
+2024-12-23,Nigeria,Panama,1,1,qualifier,True
+2024-12-25,Curacao,Portugal,0,1,friendly,False
+2024-12-26,DR Congo,Netherlands,1,1,qualifier,True
+2025-01-01,Iran,Costa Rica,1,2,qualifier,False
+2025-01-03,Tunisia,Egypt,3,1,qualifier,False
+2025-01-04,Jamaica,France,0,0,friendly,False
+2025-01-09,Switzerland,Brazil,0,1,qualifier,False
+2025-01-10,Jamaica,Colombia,0,1,qualifier,False
+2025-01-10,Croatia,Iran,2,1,continental,True
+2025-01-11,Denmark,Qatar,3,0,qualifier,False
+2025-01-25,Iran,USA,1,0,continental,False
+2025-01-26,Cape Verde,Japan,1,3,continental,False
+2025-01-27,Australia,Qatar,4,2,continental,False
+2025-01-27,Netherlands,Costa Rica,3,0,continental,True
+2025-02-01,Iran,Switzerland,3,1,qualifier,False
+2025-02-05,Japan,Costa Rica,1,2,continental,True
+2025-02-06,Senegal,Denmark,2,1,qualifier,True
+2025-02-18,Saudi Arabia,Cape Verde,3,1,friendly,True
+2025-02-18,Ghana,New Zealand,2,1,qualifier,False
+2025-02-21,Saudi Arabia,Senegal,0,0,qualifier,True
+2025-02-26,Japan,South Korea,1,1,friendly,True
+2025-03-04,Algeria,Canada,4,3,friendly,False
+2025-03-05,South Africa,Germany,1,2,friendly,True
+2025-03-08,Portugal,Morocco,1,2,friendly,True
+2025-03-08,Canada,Tunisia,1,2,friendly,False
+2025-03-09,South Korea,South Africa,5,0,continental,True
+2025-03-28,New Zealand,Portugal,1,3,continental,False
+2025-04-02,Morocco,Belgium,0,0,friendly,False
+2025-04-11,South Korea,Australia,0,1,friendly,True
+2025-04-15,Algeria,Qatar,0,2,friendly,False
+2025-04-16,Jamaica,England,2,3,friendly,False
+2025-04-19,Senegal,Nigeria,1,3,qualifier,True
+2025-04-22,Argentina,Algeria,4,0,continental,False
+2025-04-24,Australia,Italy,0,1,friendly,True
+2025-05-04,Brazil,Argentina,4,1,continental,False
+2025-05-05,Iran,Argentina,2,3,qualifier,False
+2025-05-06,Jordan,Portugal,2,3,friendly,False
+2025-05-10,Haiti,Serbia,1,2,qualifier,True
+2025-05-23,Haiti,Spain,1,3,qualifier,True
+2025-05-23,Canada,Jordan,1,0,friendly,False
+2025-05-24,Uzbekistan,Jordan,3,0,qualifier,True
+2025-05-26,Portugal,Haiti,4,0,friendly,False
+2025-05-26,Saudi Arabia,Netherlands,2,0,continental,False
+2025-06-02,Netherlands,Argentina,2,3,qualifier,False
+2025-06-06,Tunisia,Algeria,0,1,qualifier,False
+2025-06-11,Netherlands,Canada,2,2,friendly,False
+2025-06-18,New Zealand,Italy,2,2,friendly,True
+2025-06-25,Portugal,South Africa,2,2,continental,True
+2025-06-26,South Africa,Italy,0,2,friendly,False
+2025-07-02,Qatar,Serbia,1,0,continental,True
+2025-07-10,Poland,France,3,1,continental,True
+2025-07-12,Switzerland,Uzbekistan,4,2,friendly,False
+2025-07-14,Costa Rica,Jordan,0,1,continental,True
+2025-07-15,Mexico,South Korea,0,3,qualifier,True
+2025-07-20,Morocco,Ecuador,2,3,continental,False
+2025-07-25,Australia,Curacao,3,1,qualifier,True
+2025-08-01,Egypt,Iraq,3,1,continental,True
+2025-08-08,Ghana,Qatar,0,0,qualifier,False
+2025-08-08,Haiti,Denmark,0,3,qualifier,True
+2025-08-14,Senegal,South Korea,1,0,continental,True
+2025-08-16,South Korea,Jordan,0,3,qualifier,False
+2025-08-17,New Zealand,England,0,1,friendly,True
+2025-08-25,Costa Rica,Switzerland,1,0,friendly,False
+2025-08-25,Ivory Coast,Iran,0,1,friendly,False
+2025-08-27,Colombia,Senegal,3,0,friendly,False
+2025-08-28,Japan,Mexico,0,3,qualifier,False
+2025-09-02,Qatar,Ivory Coast,3,0,continental,False
+2025-09-07,Egypt,Colombia,0,1,continental,False
+2025-09-08,Ivory Coast,Colombia,2,2,continental,True
+2025-09-09,Denmark,Curacao,6,0,qualifier,False
+2025-09-12,Iran,Haiti,6,1,friendly,False
+2025-09-16,Ghana,Argentina,4,3,friendly,True
+2025-09-17,England,Iraq,6,1,continental,False
+2025-09-18,Qatar,Jordan,2,2,qualifier,False
+2025-09-19,South Africa,Argentina,0,2,qualifier,False
+2025-09-23,DR Congo,Haiti,1,3,friendly,False
+2025-09-27,Peru,Senegal,3,1,qualifier,True
+2025-09-28,Brazil,Haiti,1,0,continental,False
+2025-10-02,Algeria,Jordan,3,1,qualifier,True
+2025-10-02,South Africa,Peru,0,0,continental,False
+2025-10-06,Uruguay,Italy,0,3,qualifier,True
+2025-10-08,Japan,Peru,1,1,friendly,False
+2025-10-18,Germany,Ghana,0,0,continental,True
+2025-11-02,Croatia,Jamaica,4,0,continental,True
+2025-11-05,Denmark,Peru,1,0,continental,False
+2025-11-12,South Africa,Nigeria,0,1,friendly,False
+2025-11-16,Portugal,Colombia,0,2,friendly,False
+2025-11-23,DR Congo,Japan,0,1,friendly,False
+2025-12-11,Japan,Poland,3,3,friendly,True
+2025-12-18,Denmark,Iraq,4,0,friendly,True
+2025-12-18,Croatia,Belgium,2,2,friendly,False
+2025-12-27,Curacao,France,1,1,qualifier,True

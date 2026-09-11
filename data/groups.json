@@ -1,0 +1,15 @@
+{
+  "_comment": "Illustrative 12-group draw (pot-seeded from data/seed_ratings.csv) for demo purposes -- swap in the real 2026 FIFA draw once it is finalized.",
+  "Group A": ["Argentina", "Colombia", "Canada", "Algeria"],
+  "Group B": ["France", "Morocco", "Poland", "Panama"],
+  "Group C": ["Brazil", "USA", "Serbia", "Jamaica"],
+  "Group D": ["England", "Mexico", "Tunisia", "New Zealand"],
+  "Group E": ["Spain", "Japan", "Ghana", "South Africa"],
+  "Group F": ["Portugal", "Senegal", "Nigeria", "Jordan"],
+  "Group G": ["Netherlands", "Switzerland", "Peru", "Uzbekistan"],
+  "Group H": ["Belgium", "Denmark", "Costa Rica", "Iraq"],
+  "Group I": ["Germany", "Ecuador", "Ivory Coast", "Curacao"],
+  "Group J": ["Italy", "Iran", "Qatar", "Haiti"],
+  "Group K": ["Croatia", "South Korea", "Egypt", "Cape Verde"],
+  "Group L": ["Uruguay", "Australia", "Saudi Arabia", "DR Congo"]
+}
