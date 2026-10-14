@@ -13,16 +13,9 @@ import csv
 import os
 import random
 
+from data_loading import SAMPLE_MATCHES_PATH, load_seed_ratings
 from dixon_coles import match_probabilities
 from simulate import sample_scoreline
-
-
-def load_seed_ratings(path: str) -> dict[str, float]:
-    ratings = {}
-    with open(path, newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            ratings[row["team"]] = float(row["seed_elo"])
-    return ratings
 
 
 def generate(
@@ -61,14 +54,13 @@ def generate(
 
 
 if __name__ == "__main__":
-    here = os.path.dirname(__file__)
-    ratings = load_seed_ratings(os.path.join(here, "..", "data", "seed_ratings.csv"))
+    ratings = load_seed_ratings()
     rows = generate(ratings, n_matches=600)
-    out_path = os.path.join(here, "..", "data", "sample_historical_matches.csv")
+    out_path = SAMPLE_MATCHES_PATH
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f, fieldnames=["date", "home_team", "away_team", "home_goals", "away_goals", "stage", "neutral"]
         )
         writer.writeheader()
         writer.writerows(rows)
-    print(f"Wrote {len(rows)} synthetic matches to {out_path}")
+    print(f"Wrote {len(rows)} synthetic matches to {os.path.relpath(out_path)}")
