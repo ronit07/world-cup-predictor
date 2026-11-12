@@ -1,0 +1,68 @@
+{
+  "test_period": "2018-01-02 to 2026-10-06",
+  "xgboost": {
+    "matches": 8630,
+    "decisive_matches": 6653,
+    "accuracy_decisive": 0.7816,
+    "accuracy_3way": 0.6021,
+    "log_loss": 0.8704,
+    "brier": 0.5116
+  },
+  "elo_dixon_coles": {
+    "matches": 8630,
+    "decisive_matches": 6653,
+    "accuracy_decisive": 0.7816,
+    "accuracy_3way": 0.6025,
+    "log_loss": 0.8882,
+    "brier": 0.5205
+  },
+  "base_rates": {
+    "matches": 8630,
+    "decisive_matches": 6653,
+    "accuracy_decisive": 0.619,
+    "accuracy_3way": 0.4772,
+    "log_loss": 1.0513,
+    "brier": 0.634
+  },
+  "world_cup_only": {
+    "xgboost": {
+      "matches": 232,
+      "decisive_matches": 180,
+      "accuracy_decisive": 0.7389,
+      "accuracy_3way": 0.5733,
+      "log_loss": 0.9472,
+      "brier": 0.5585
+    },
+    "elo_dixon_coles": {
+      "matches": 232,
+      "decisive_matches": 180,
+      "accuracy_decisive": 0.7667,
+      "accuracy_3way": 0.5948,
+      "log_loss": 0.9593,
+      "brier": 0.5668
+    }
+  },
+  "best_iteration": 227,
+  "features": [
+    "elo_home",
+    "elo_away",
+    "elo_diff",
+    "dc_home_win",
+    "dc_draw",
+    "dc_away_win",
+    "home_ppg_5",
+    "away_ppg_5",
+    "home_gd_5",
+    "away_gd_5",
+    "home_ppg_10",
+    "away_ppg_10",
+    "home_gd_10",
+    "away_gd_10",
+    "home_games_played",
+    "away_games_played",
+    "neutral",
+    "home_is_host",
+    "away_is_host",
+    "stage_level"
+  ]
+}

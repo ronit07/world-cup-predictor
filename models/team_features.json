@@ -1,0 +1,2698 @@
+{
+ "Abkhazia": {
+  "elo": 1627.8,
+  "games_played": 33,
+  "gd_10": 1.1,
+  "gd_5": 0.6,
+  "ppg_10": 1.9,
+  "ppg_5": 1.8
+ },
+ "Afghanistan": {
+  "elo": 1173.81,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -0.6,
+  "ppg_10": 0.5,
+  "ppg_5": 1.0
+ },
+ "Albania": {
+  "elo": 1668.65,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.8,
+  "ppg_10": 1.2,
+  "ppg_5": 1.8
+ },
+ "Alderney": {
+  "elo": 1076.98,
+  "games_played": 50,
+  "gd_10": -2.3,
+  "gd_5": -2.6,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Algeria": {
+  "elo": 1851.02,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 0.2,
+  "ppg_10": 1.8,
+  "ppg_5": 1.6
+ },
+ "Ambazonia": {
+  "elo": 1389.1,
+  "games_played": 6,
+  "gd_10": -2.3333,
+  "gd_5": -2.8,
+  "ppg_10": 0.1667,
+  "ppg_5": 0.0
+ },
+ "American Samoa": {
+  "elo": 919.5,
+  "games_played": 50,
+  "gd_10": -6.0,
+  "gd_5": -3.8,
+  "ppg_10": 0.1,
+  "ppg_5": 0.0
+ },
+ "Andalusia": {
+  "elo": 1592.46,
+  "games_played": 13,
+  "gd_10": 1.4,
+  "gd_5": 1.6,
+  "ppg_10": 2.6,
+  "ppg_5": 2.6
+ },
+ "Andorra": {
+  "elo": 1115.91,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.6,
+  "ppg_10": 0.5,
+  "ppg_5": 0.2
+ },
+ "Angola": {
+  "elo": 1615.89,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 1.0,
+  "ppg_10": 1.4,
+  "ppg_5": 1.8
+ },
+ "Anguilla": {
+  "elo": 833.63,
+  "games_played": 50,
+  "gd_10": -2.0,
+  "gd_5": -2.4,
+  "ppg_10": 0.6,
+  "ppg_5": 0.0
+ },
+ "Antigua and Barbuda": {
+  "elo": 1113.41,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 1.0,
+  "ppg_10": 1.1,
+  "ppg_5": 1.8
+ },
+ "Arameans Suryoye": {
+  "elo": 1545.51,
+  "games_played": 10,
+  "gd_10": 0.4,
+  "gd_5": 0.6,
+  "ppg_10": 1.7,
+  "ppg_5": 2.0
+ },
+ "Argentina": {
+  "elo": 2249.28,
+  "games_played": 50,
+  "gd_10": 2.4,
+  "gd_5": 3.4,
+  "ppg_10": 2.7,
+  "ppg_5": 2.4
+ },
+ "Armenia": {
+  "elo": 1393.22,
+  "games_played": 50,
+  "gd_10": -1.2,
+  "gd_5": -0.2,
+  "ppg_10": 0.6,
+  "ppg_5": 1.0
+ },
+ "Artsakh": {
+  "elo": 1556.03,
+  "games_played": 11,
+  "gd_10": 1.8,
+  "gd_5": 0.2,
+  "ppg_10": 1.9,
+  "ppg_5": 2.0
+ },
+ "Aruba": {
+  "elo": 1205.29,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": -0.2,
+  "ppg_10": 1.9,
+  "ppg_5": 1.8
+ },
+ "Asturias": {
+  "elo": 1520.53,
+  "games_played": 1,
+  "gd_10": 2.0,
+  "gd_5": 2.0,
+  "ppg_10": 3.0,
+  "ppg_5": 3.0
+ },
+ "Australia": {
+  "elo": 1897.94,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": -0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 0.6
+ },
+ "Austria": {
+  "elo": 1912.62,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 0.2,
+  "ppg_10": 1.8,
+  "ppg_5": 1.6
+ },
+ "Aymara": {
+  "elo": 1463.18,
+  "games_played": 2,
+  "gd_10": -1.5,
+  "gd_5": -1.5,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Azerbaijan": {
+  "elo": 1385.36,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": 0.6,
+  "ppg_10": 1.5,
+  "ppg_5": 2.2
+ },
+ "Bahamas": {
+  "elo": 889.6,
+  "games_played": 50,
+  "gd_10": -4.4,
+  "gd_5": -3.8,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Bahrain": {
+  "elo": 1463.4,
+  "games_played": 50,
+  "gd_10": -1.4,
+  "gd_5": -1.6,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Bangladesh": {
+  "elo": 1112.97,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -2.6,
+  "ppg_10": 0.9,
+  "ppg_5": 0.6
+ },
+ "Barawa": {
+  "elo": 1358.78,
+  "games_played": 12,
+  "gd_10": -2.4,
+  "gd_5": -4.6,
+  "ppg_10": 0.9,
+  "ppg_5": 0.6
+ },
+ "Barbados": {
+  "elo": 1249.6,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 1.0,
+  "ppg_10": 1.4,
+  "ppg_5": 2.0
+ },
+ "Basque Country": {
+  "elo": 1800.22,
+  "games_played": 50,
+  "gd_10": 1.5,
+  "gd_5": 1.2,
+  "ppg_10": 2.2,
+  "ppg_5": 2.2
+ },
+ "Belarus": {
+  "elo": 1603.72,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": 0.6,
+  "ppg_10": 1.9,
+  "ppg_5": 1.6
+ },
+ "Belgium": {
+  "elo": 2027.32,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": 0.0,
+  "ppg_10": 1.7,
+  "ppg_5": 1.2
+ },
+ "Belize": {
+  "elo": 1227.09,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": -1.0,
+  "ppg_10": 0.9,
+  "ppg_5": 0.6
+ },
+ "Benin": {
+  "elo": 1565.29,
+  "games_played": 50,
+  "gd_10": -0.8,
+  "gd_5": -1.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.0
+ },
+ "Bermuda": {
+  "elo": 1210.27,
+  "games_played": 50,
+  "gd_10": -2.1,
+  "gd_5": -1.0,
+  "ppg_10": 0.4,
+  "ppg_5": 0.6
+ },
+ "Bhutan": {
+  "elo": 858.91,
+  "games_played": 50,
+  "gd_10": -2.1,
+  "gd_5": -3.4,
+  "ppg_10": 0.4,
+  "ppg_5": 0.0
+ },
+ "Biafra": {
+  "elo": 1514.71,
+  "games_played": 3,
+  "gd_10": 0.3333,
+  "gd_5": 0.3333,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Bolivia": {
+  "elo": 1710.17,
+  "games_played": 50,
+  "gd_10": -1.6,
+  "gd_5": -3.6,
+  "ppg_10": 0.7,
+  "ppg_5": 0.0
+ },
+ "Bonaire": {
+  "elo": 1133.06,
+  "games_played": 48,
+  "gd_10": -1.2,
+  "gd_5": -0.6,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Bosnia and Herzegovina": {
+  "elo": 1756.31,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.6
+ },
+ "Botswana": {
+  "elo": 1414.78,
+  "games_played": 50,
+  "gd_10": -1.2,
+  "gd_5": -1.0,
+  "ppg_10": 0.6,
+  "ppg_5": 1.0
+ },
+ "Brazil": {
+  "elo": 2090.8,
+  "games_played": 50,
+  "gd_10": 1.7,
+  "gd_5": 1.2,
+  "ppg_10": 2.3,
+  "ppg_5": 2.0
+ },
+ "British Virgin Islands": {
+  "elo": 913.41,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": -1.8,
+  "ppg_10": 1.3,
+  "ppg_5": 0.6
+ },
+ "Brittany": {
+  "elo": 1504.29,
+  "games_played": 12,
+  "gd_10": -0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Brunei": {
+  "elo": 867.04,
+  "games_played": 50,
+  "gd_10": -2.4,
+  "gd_5": -3.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.0
+ },
+ "Bulgaria": {
+  "elo": 1511.3,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": -0.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.0
+ },
+ "Burkina Faso": {
+  "elo": 1646.61,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -1.8,
+  "ppg_10": 1.2,
+  "ppg_5": 1.0
+ },
+ "Burundi": {
+  "elo": 1437.43,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": 0.4,
+  "ppg_10": 0.8,
+  "ppg_5": 1.4
+ },
+ "Cambodia": {
+  "elo": 1076.63,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.0,
+  "ppg_10": 1.4,
+  "ppg_5": 1.4
+ },
+ "Cameroon": {
+  "elo": 1732.63,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.8,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Canada": {
+  "elo": 1857.43,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 0.0,
+  "ppg_10": 1.7,
+  "ppg_5": 1.8
+ },
+ "Canary Islands": {
+  "elo": 1514.83,
+  "games_played": 4,
+  "gd_10": 2.0,
+  "gd_5": 2.0,
+  "ppg_10": 2.25,
+  "ppg_5": 2.25
+ },
+ "Canton Ticino": {
+  "elo": 1406.34,
+  "games_played": 5,
+  "gd_10": -3.0,
+  "gd_5": -3.0,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Cape Verde": {
+  "elo": 1641.67,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -0.8,
+  "ppg_10": 0.7,
+  "ppg_5": 0.4
+ },
+ "Cascadia": {
+  "elo": 1545.19,
+  "games_played": 7,
+  "gd_10": 1.2857,
+  "gd_5": 2.2,
+  "ppg_10": 1.8571,
+  "ppg_5": 2.0
+ },
+ "Catalonia": {
+  "elo": 1655.82,
+  "games_played": 48,
+  "gd_10": 1.0,
+  "gd_5": 0.6,
+  "ppg_10": 1.9,
+  "ppg_5": 1.6
+ },
+ "Cayman Islands": {
+  "elo": 1024.8,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -1.8,
+  "ppg_10": 0.8,
+  "ppg_5": 0.2
+ },
+ "Central African Republic": {
+  "elo": 1333.03,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.0,
+  "ppg_10": 0.8,
+  "ppg_5": 0.8
+ },
+ "Central Spain": {
+  "elo": 1495.32,
+  "games_played": 2,
+  "gd_10": -1.0,
+  "gd_5": -1.0,
+  "ppg_10": 1.5,
+  "ppg_5": 1.5
+ },
+ "Chad": {
+  "elo": 1202.57,
+  "games_played": 50,
+  "gd_10": -1.5,
+  "gd_5": -2.0,
+  "ppg_10": 0.3,
+  "ppg_5": 0.2
+ },
+ "Chagos Islands": {
+  "elo": 1359.32,
+  "games_played": 16,
+  "gd_10": -4.1,
+  "gd_5": -5.0,
+  "ppg_10": 0.4,
+  "ppg_5": 0.0
+ },
+ "Chameria": {
+  "elo": 1553.08,
+  "games_played": 7,
+  "gd_10": 0.8571,
+  "gd_5": 1.0,
+  "ppg_10": 1.5714,
+  "ppg_5": 1.6
+ },
+ "Chechnya": {
+  "elo": 1451.28,
+  "games_played": 3,
+  "gd_10": -8.6667,
+  "gd_5": -8.6667,
+  "ppg_10": 0.3333,
+  "ppg_5": 0.3333
+ },
+ "Chile": {
+  "elo": 1813.61,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": -0.2,
+  "ppg_10": 1.8,
+  "ppg_5": 1.2
+ },
+ "China": {
+  "elo": 1497.57,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": -1.2,
+  "ppg_10": 1.4,
+  "ppg_5": 0.8
+ },
+ "Cilento": {
+  "elo": 1490.53,
+  "games_played": 1,
+  "gd_10": -2.0,
+  "gd_5": -2.0,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Colombia": {
+  "elo": 2075.11,
+  "games_played": 50,
+  "gd_10": 0.9,
+  "gd_5": 0.4,
+  "ppg_10": 2.1,
+  "ppg_5": 1.6
+ },
+ "Comoros": {
+  "elo": 1489.14,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.4,
+  "ppg_10": 0.9,
+  "ppg_5": 1.2
+ },
+ "Congo": {
+  "elo": 1329.34,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -0.8,
+  "ppg_10": 0.3,
+  "ppg_5": 0.4
+ },
+ "Cook Islands": {
+  "elo": 1141.88,
+  "games_played": 50,
+  "gd_10": -1.9,
+  "gd_5": -0.6,
+  "ppg_10": 0.9,
+  "ppg_5": 1.2
+ },
+ "Corsica": {
+  "elo": 1555.89,
+  "games_played": 9,
+  "gd_10": 0.5556,
+  "gd_5": 0.4,
+  "ppg_10": 1.7778,
+  "ppg_5": 1.8
+ },
+ "Costa Rica": {
+  "elo": 1731.28,
+  "games_played": 50,
+  "gd_10": -0.9,
+  "gd_5": -0.2,
+  "ppg_10": 0.8,
+  "ppg_5": 1.2
+ },
+ "County of Nice": {
+  "elo": 1590.77,
+  "games_played": 9,
+  "gd_10": 0.6667,
+  "gd_5": 0.6,
+  "ppg_10": 2.1111,
+  "ppg_5": 2.0
+ },
+ "Crimea": {
+  "elo": 1507.59,
+  "games_played": 5,
+  "gd_10": -0.8,
+  "gd_5": -0.8,
+  "ppg_10": 1.8,
+  "ppg_5": 1.8
+ },
+ "Croatia": {
+  "elo": 1921.79,
+  "games_played": 50,
+  "gd_10": -1.2,
+  "gd_5": -2.2,
+  "ppg_10": 1.2,
+  "ppg_5": 0.6
+ },
+ "Cuba": {
+  "elo": 1436.01,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 1.0,
+  "ppg_10": 1.6,
+  "ppg_5": 1.8
+ },
+ "Cura\u00e7ao": {
+  "elo": 1666.23,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": 1.0,
+  "ppg_10": 1.4,
+  "ppg_5": 2.0
+ },
+ "Cyprus": {
+  "elo": 1406.5,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.8,
+  "ppg_10": 1.4,
+  "ppg_5": 2.0
+ },
+ "Czech Republic": {
+  "elo": 1730.99,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -2.2,
+  "ppg_10": 0.8,
+  "ppg_5": 0.0
+ },
+ "Czechoslovakia": {
+  "elo": 1803.65,
+  "games_played": 50,
+  "gd_10": 1.2,
+  "gd_5": 1.8,
+  "ppg_10": 1.7,
+  "ppg_5": 2.2
+ },
+ "DR Congo": {
+  "elo": 1790.69,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.0,
+  "ppg_10": 1.2,
+  "ppg_5": 1.4
+ },
+ "Darfur": {
+  "elo": 1275.47,
+  "games_played": 7,
+  "gd_10": -14.0,
+  "gd_5": -13.0,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Denmark": {
+  "elo": 1931.58,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 0.2,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Djibouti": {
+  "elo": 1097.81,
+  "games_played": 50,
+  "gd_10": -2.4,
+  "gd_5": -1.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.6
+ },
+ "Dominica": {
+  "elo": 1096.4,
+  "games_played": 50,
+  "gd_10": -2.1,
+  "gd_5": -2.4,
+  "ppg_10": 0.5,
+  "ppg_5": 0.8
+ },
+ "Dominican Republic": {
+  "elo": 1535.71,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": -0.4,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Donetsk PR": {
+  "elo": 1511.8,
+  "games_played": 6,
+  "gd_10": 0.1667,
+  "gd_5": 0.4,
+  "ppg_10": 1.3333,
+  "ppg_5": 1.6
+ },
+ "D\u00e9lvid\u00e9k": {
+  "elo": 1500.21,
+  "games_played": 2,
+  "gd_10": 0.5,
+  "gd_5": 0.5,
+  "ppg_10": 1.5,
+  "ppg_5": 1.5
+ },
+ "East Turkestan": {
+  "elo": 1455.11,
+  "games_played": 5,
+  "gd_10": -0.2,
+  "gd_5": -0.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.2
+ },
+ "Ecuador": {
+  "elo": 1950.01,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": -0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 1.0
+ },
+ "Egypt": {
+  "elo": 1828.04,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.6,
+  "ppg_10": 1.3,
+  "ppg_5": 1.0
+ },
+ "El Salvador": {
+  "elo": 1474.15,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.2,
+  "ppg_10": 0.9,
+  "ppg_5": 1.0
+ },
+ "Elba Island": {
+  "elo": 1514.31,
+  "games_played": 2,
+  "gd_10": 3.5,
+  "gd_5": 3.5,
+  "ppg_10": 3.0,
+  "ppg_5": 3.0
+ },
+ "Ellan Vannin": {
+  "elo": 1569.41,
+  "games_played": 22,
+  "gd_10": 0.2,
+  "gd_5": 0.8,
+  "ppg_10": 1.5,
+  "ppg_5": 2.0
+ },
+ "England": {
+  "elo": 2222.51,
+  "games_played": 50,
+  "gd_10": 1.7,
+  "gd_5": 2.6,
+  "ppg_10": 2.4,
+  "ppg_5": 2.4
+ },
+ "Equatorial Guinea": {
+  "elo": 1461.31,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -0.2,
+  "ppg_10": 0.8,
+  "ppg_5": 1.4
+ },
+ "Eritrea": {
+  "elo": 1272.22,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -0.8,
+  "ppg_10": 0.7,
+  "ppg_5": 1.4
+ },
+ "Estonia": {
+  "elo": 1476.8,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.4,
+  "ppg_10": 1.6,
+  "ppg_5": 1.8
+ },
+ "Eswatini": {
+  "elo": 1248.11,
+  "games_played": 50,
+  "gd_10": -1.7,
+  "gd_5": -1.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.2
+ },
+ "Ethiopia": {
+  "elo": 1391.97,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": 0.0,
+  "ppg_10": 1.3,
+  "ppg_5": 1.4
+ },
+ "Falkland Islands": {
+  "elo": 1214.47,
+  "games_played": 33,
+  "gd_10": -2.6,
+  "gd_5": -2.6,
+  "ppg_10": 0.1,
+  "ppg_5": 0.2
+ },
+ "Faroe Islands": {
+  "elo": 1463.51,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.6,
+  "ppg_5": 1.4
+ },
+ "Felvid\u00e9k": {
+  "elo": 1507.35,
+  "games_played": 12,
+  "gd_10": -0.5,
+  "gd_5": 0.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.8
+ },
+ "Fiji": {
+  "elo": 1428.7,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": 0.6,
+  "ppg_10": 1.0,
+  "ppg_5": 2.0
+ },
+ "Finland": {
+  "elo": 1580.27,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 1.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.4
+ },
+ "France": {
+  "elo": 2186.94,
+  "games_played": 50,
+  "gd_10": 1.0,
+  "gd_5": 0.6,
+  "ppg_10": 2.2,
+  "ppg_5": 2.0
+ },
+ "Franconia": {
+  "elo": 1478.14,
+  "games_played": 3,
+  "gd_10": -1.0,
+  "gd_5": -1.0,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "French Guiana": {
+  "elo": 1447.28,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.6,
+  "ppg_10": 1.1,
+  "ppg_5": 2.0
+ },
+ "Fr\u00f8ya": {
+  "elo": 1194.41,
+  "games_played": 37,
+  "gd_10": -2.6,
+  "gd_5": -3.8,
+  "ppg_10": 0.4,
+  "ppg_5": 0.6
+ },
+ "Gabon": {
+  "elo": 1541.69,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.6,
+  "ppg_10": 1.0,
+  "ppg_5": 0.8
+ },
+ "Galicia": {
+  "elo": 1527.4,
+  "games_played": 12,
+  "gd_10": -0.8,
+  "gd_5": -1.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.4
+ },
+ "Gambia": {
+  "elo": 1588.54,
+  "games_played": 50,
+  "gd_10": 0.9,
+  "gd_5": -0.2,
+  "ppg_10": 1.7,
+  "ppg_5": 1.4
+ },
+ "Georgia": {
+  "elo": 1681.97,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": 0.0,
+  "ppg_10": 1.0,
+  "ppg_5": 1.0
+ },
+ "German DR": {
+  "elo": 1734.34,
+  "games_played": 50,
+  "gd_10": 0.6,
+  "gd_5": 1.2,
+  "ppg_10": 2.2,
+  "ppg_5": 2.6
+ },
+ "Germany": {
+  "elo": 1972.33,
+  "games_played": 50,
+  "gd_10": 1.2,
+  "gd_5": 0.2,
+  "ppg_10": 1.8,
+  "ppg_5": 1.2
+ },
+ "Ghana": {
+  "elo": 1621.3,
+  "games_played": 50,
+  "gd_10": -1.2,
+  "gd_5": -1.2,
+  "ppg_10": 0.5,
+  "ppg_5": 0.2
+ },
+ "Gibraltar": {
+  "elo": 1140.7,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": 1.0,
+  "ppg_10": 1.2,
+  "ppg_5": 1.8
+ },
+ "Gotland": {
+  "elo": 1443.87,
+  "games_played": 30,
+  "gd_10": 1.0,
+  "gd_5": 2.2,
+  "ppg_10": 0.9,
+  "ppg_5": 1.2
+ },
+ "Gozo": {
+  "elo": 1467.77,
+  "games_played": 14,
+  "gd_10": 1.2,
+  "gd_5": -0.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.0
+ },
+ "Greece": {
+  "elo": 1891.36,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.6
+ },
+ "Greenland": {
+  "elo": 1494.01,
+  "games_played": 50,
+  "gd_10": -1.0,
+  "gd_5": -1.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.2
+ },
+ "Grenada": {
+  "elo": 1181.98,
+  "games_played": 50,
+  "gd_10": -1.6,
+  "gd_5": -2.6,
+  "ppg_10": 0.9,
+  "ppg_5": 0.6
+ },
+ "Guadeloupe": {
+  "elo": 1405.61,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 0.8
+ },
+ "Guam": {
+  "elo": 973.5,
+  "games_played": 50,
+  "gd_10": -1.4,
+  "gd_5": -2.4,
+  "ppg_10": 0.7,
+  "ppg_5": 0.6
+ },
+ "Guatemala": {
+  "elo": 1683.13,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": 0.6,
+  "ppg_10": 1.3,
+  "ppg_5": 1.4
+ },
+ "Guernsey": {
+  "elo": 1745.7,
+  "games_played": 50,
+  "gd_10": 1.3,
+  "gd_5": 0.6,
+  "ppg_10": 1.8,
+  "ppg_5": 1.8
+ },
+ "Guinea": {
+  "elo": 1576.74,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": -0.4,
+  "ppg_10": 1.3,
+  "ppg_5": 0.8
+ },
+ "Guinea-Bissau": {
+  "elo": 1469.86,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": -0.2,
+  "ppg_10": 1.1,
+  "ppg_5": 1.4
+ },
+ "Guyana": {
+  "elo": 1535.62,
+  "games_played": 50,
+  "gd_10": 2.4,
+  "gd_5": 3.2,
+  "ppg_10": 2.7,
+  "ppg_5": 3.0
+ },
+ "G\u0103g\u0103uzia": {
+  "elo": 1429.71,
+  "games_played": 3,
+  "gd_10": -2.3333,
+  "gd_5": -2.3333,
+  "ppg_10": 0.3333,
+  "ppg_5": 0.3333
+ },
+ "Haiti": {
+  "elo": 1731.03,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.4,
+  "ppg_10": 1.3,
+  "ppg_5": 1.8
+ },
+ "Hitra": {
+  "elo": 1343.55,
+  "games_played": 23,
+  "gd_10": -0.6,
+  "gd_5": 0.2,
+  "ppg_10": 1.3,
+  "ppg_5": 1.2
+ },
+ "Hmong": {
+  "elo": 1461.02,
+  "games_played": 3,
+  "gd_10": -1.3333,
+  "gd_5": -1.3333,
+  "ppg_10": 1.0,
+  "ppg_5": 1.0
+ },
+ "Honduras": {
+  "elo": 1672.35,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": -0.6,
+  "ppg_10": 1.0,
+  "ppg_5": 0.8
+ },
+ "Hong Kong": {
+  "elo": 1322.05,
+  "games_played": 50,
+  "gd_10": 1.6,
+  "gd_5": 1.6,
+  "ppg_10": 2.0,
+  "ppg_5": 2.4
+ },
+ "Hungary": {
+  "elo": 1781.33,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.6,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Iceland": {
+  "elo": 1656.62,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": 0.6,
+  "ppg_10": 1.0,
+  "ppg_5": 1.6
+ },
+ "India": {
+  "elo": 1252.02,
+  "games_played": 50,
+  "gd_10": -1.6,
+  "gd_5": -2.2,
+  "ppg_10": 0.3,
+  "ppg_5": 0.4
+ },
+ "Indonesia": {
+  "elo": 1475.22,
+  "games_played": 50,
+  "gd_10": 1.7,
+  "gd_5": 1.8,
+  "ppg_10": 2.1,
+  "ppg_5": 1.8
+ },
+ "Iran": {
+  "elo": 1865.6,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": -0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 0.6
+ },
+ "Iraq": {
+  "elo": 1670.4,
+  "games_played": 50,
+  "gd_10": -1.2,
+  "gd_5": -1.8,
+  "ppg_10": 1.1,
+  "ppg_5": 0.8
+ },
+ "Iraqi Kurdistan": {
+  "elo": 1644.22,
+  "games_played": 27,
+  "gd_10": 1.4,
+  "gd_5": 1.2,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Isle of Man": {
+  "elo": 1709.22,
+  "games_played": 50,
+  "gd_10": 2.3,
+  "gd_5": 3.2,
+  "ppg_10": 2.1,
+  "ppg_5": 2.4
+ },
+ "Isle of Wight": {
+  "elo": 1660.4,
+  "games_played": 48,
+  "gd_10": 1.0,
+  "gd_5": 0.4,
+  "ppg_10": 2.2,
+  "ppg_5": 1.8
+ },
+ "Israel": {
+  "elo": 1676.86,
+  "games_played": 50,
+  "gd_10": -0.9,
+  "gd_5": -0.8,
+  "ppg_10": 1.0,
+  "ppg_5": 1.0
+ },
+ "Italy": {
+  "elo": 1988.72,
+  "games_played": 50,
+  "gd_10": 0.6,
+  "gd_5": 0.8,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Ivory Coast": {
+  "elo": 1838.6,
+  "games_played": 50,
+  "gd_10": 1.0,
+  "gd_5": 0.8,
+  "ppg_10": 2.1,
+  "ppg_5": 1.8
+ },
+ "Jamaica": {
+  "elo": 1689.05,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.6,
+  "ppg_5": 1.4
+ },
+ "Japan": {
+  "elo": 1977.24,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": 0.2,
+  "ppg_10": 2.1,
+  "ppg_5": 1.6
+ },
+ "Jersey": {
+  "elo": 1805.34,
+  "games_played": 50,
+  "gd_10": 1.7,
+  "gd_5": 1.0,
+  "ppg_10": 2.5,
+  "ppg_5": 2.0
+ },
+ "Jordan": {
+  "elo": 1718.83,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.0,
+  "ppg_10": 0.4,
+  "ppg_5": 0.4
+ },
+ "Kabylia": {
+  "elo": 1455.77,
+  "games_played": 6,
+  "gd_10": -1.1667,
+  "gd_5": 0.2,
+  "ppg_10": 0.8333,
+  "ppg_5": 1.0
+ },
+ "Kazakhstan": {
+  "elo": 1450.88,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": -0.8,
+  "ppg_10": 1.0,
+  "ppg_5": 0.4
+ },
+ "Kenya": {
+  "elo": 1452.37,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": 0.4,
+  "ppg_10": 1.3,
+  "ppg_5": 1.2
+ },
+ "Kernow": {
+  "elo": 1595.27,
+  "games_played": 12,
+  "gd_10": 1.8,
+  "gd_5": 2.0,
+  "ppg_10": 2.3,
+  "ppg_5": 2.6
+ },
+ "Kiribati": {
+  "elo": 1224.71,
+  "games_played": 11,
+  "gd_10": -9.5,
+  "gd_5": -12.4,
+  "ppg_10": 0.1,
+  "ppg_5": 0.0
+ },
+ "Kosovo": {
+  "elo": 1776.67,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 0.4,
+  "ppg_10": 1.5,
+  "ppg_5": 1.6
+ },
+ "Kurdistan": {
+  "elo": 1567.26,
+  "games_played": 5,
+  "gd_10": 2.0,
+  "gd_5": 2.0,
+  "ppg_10": 2.6,
+  "ppg_5": 2.6
+ },
+ "Kuwait": {
+  "elo": 1449.77,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -1.2,
+  "ppg_10": 0.9,
+  "ppg_5": 0.2
+ },
+ "Kyrgyzstan": {
+  "elo": 1466.13,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 1.6
+ },
+ "K\u00e1rp\u00e1talja": {
+  "elo": 1607.49,
+  "games_played": 11,
+  "gd_10": 1.2,
+  "gd_5": 2.0,
+  "ppg_10": 1.9,
+  "ppg_5": 2.6
+ },
+ "Laos": {
+  "elo": 930.62,
+  "games_played": 50,
+  "gd_10": -2.7,
+  "gd_5": -2.8,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Latvia": {
+  "elo": 1273.27,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.0,
+  "ppg_10": 0.4,
+  "ppg_5": 0.2
+ },
+ "Lebanon": {
+  "elo": 1435.11,
+  "games_played": 50,
+  "gd_10": 1.1,
+  "gd_5": 2.0,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Lesotho": {
+  "elo": 1389.85,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -0.4,
+  "ppg_10": 0.9,
+  "ppg_5": 1.0
+ },
+ "Liberia": {
+  "elo": 1407.57,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": -0.4,
+  "ppg_10": 0.9,
+  "ppg_5": 0.8
+ },
+ "Libya": {
+  "elo": 1504.77,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": -0.2,
+  "ppg_10": 1.5,
+  "ppg_5": 0.8
+ },
+ "Liechtenstein": {
+  "elo": 945.95,
+  "games_played": 50,
+  "gd_10": -2.0,
+  "gd_5": -1.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.2
+ },
+ "Lithuania": {
+  "elo": 1319.19,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.6,
+  "ppg_10": 1.2,
+  "ppg_5": 1.4
+ },
+ "Luhansk PR": {
+  "elo": 1489.16,
+  "games_played": 6,
+  "gd_10": -0.5,
+  "gd_5": -0.4,
+  "ppg_10": 1.1667,
+  "ppg_5": 1.4
+ },
+ "Luxembourg": {
+  "elo": 1385.07,
+  "games_played": 50,
+  "gd_10": -1.4,
+  "gd_5": -0.8,
+  "ppg_10": 0.6,
+  "ppg_5": 1.2
+ },
+ "Macau": {
+  "elo": 837.74,
+  "games_played": 50,
+  "gd_10": -2.5,
+  "gd_5": -2.6,
+  "ppg_10": 0.1,
+  "ppg_5": 0.0
+ },
+ "Madagascar": {
+  "elo": 1496.26,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": -0.4,
+  "ppg_10": 1.7,
+  "ppg_5": 1.0
+ },
+ "Madrid": {
+  "elo": 1489.48,
+  "games_played": 1,
+  "gd_10": -1.0,
+  "gd_5": -1.0,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Malawi": {
+  "elo": 1434.48,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": -0.6,
+  "ppg_10": 1.2,
+  "ppg_5": 0.8
+ },
+ "Malaysia": {
+  "elo": 1492.82,
+  "games_played": 50,
+  "gd_10": 1.0,
+  "gd_5": 1.6,
+  "ppg_10": 1.9,
+  "ppg_5": 2.0
+ },
+ "Maldives": {
+  "elo": 989.06,
+  "games_played": 50,
+  "gd_10": -2.2,
+  "gd_5": -3.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.0
+ },
+ "Mali": {
+  "elo": 1746.58,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": 0.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.6
+ },
+ "Malta": {
+  "elo": 1352.51,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": 1.2,
+  "ppg_10": 1.6,
+  "ppg_5": 2.6
+ },
+ "Manchukuo": {
+  "elo": 1431.21,
+  "games_played": 3,
+  "gd_10": -5.3333,
+  "gd_5": -5.3333,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Mapuche": {
+  "elo": 1508.47,
+  "games_played": 2,
+  "gd_10": 0.5,
+  "gd_5": 0.5,
+  "ppg_10": 1.5,
+  "ppg_5": 1.5
+ },
+ "Marshall Islands": {
+  "elo": 1416.46,
+  "games_played": 2,
+  "gd_10": -2.5,
+  "gd_5": -2.5,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Martinique": {
+  "elo": 1477.25,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -0.6,
+  "ppg_10": 0.6,
+  "ppg_5": 0.8
+ },
+ "Matabeleland": {
+  "elo": 1482.05,
+  "games_played": 8,
+  "gd_10": -0.875,
+  "gd_5": 0.2,
+  "ppg_10": 1.375,
+  "ppg_5": 1.6
+ },
+ "Maule Sur": {
+  "elo": 1528.35,
+  "games_played": 2,
+  "gd_10": 1.0,
+  "gd_5": 1.0,
+  "ppg_10": 3.0,
+  "ppg_5": 3.0
+ },
+ "Mauritania": {
+  "elo": 1452.8,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": 0.2,
+  "ppg_10": 0.9,
+  "ppg_5": 1.4
+ },
+ "Mauritius": {
+  "elo": 1174.82,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": 0.4,
+  "ppg_10": 0.7,
+  "ppg_5": 1.2
+ },
+ "Mayotte": {
+  "elo": 1454.97,
+  "games_played": 38,
+  "gd_10": 0.4,
+  "gd_5": 0.6,
+  "ppg_10": 1.7,
+  "ppg_5": 1.6
+ },
+ "Menorca": {
+  "elo": 1566.21,
+  "games_played": 25,
+  "gd_10": 0.6,
+  "gd_5": -0.4,
+  "ppg_10": 1.4,
+  "ppg_5": 0.6
+ },
+ "Mexico": {
+  "elo": 1970.3,
+  "games_played": 50,
+  "gd_10": 0.6,
+  "gd_5": -1.2,
+  "ppg_10": 1.7,
+  "ppg_5": 0.4
+ },
+ "Micronesia": {
+  "elo": 1320.5,
+  "games_played": 7,
+  "gd_10": -7.2857,
+  "gd_5": -9.0,
+  "ppg_10": 0.4286,
+  "ppg_5": 0.6
+ },
+ "Moldova": {
+  "elo": 1349.61,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.0,
+  "ppg_10": 0.6,
+  "ppg_5": 1.0
+ },
+ "Monaco": {
+  "elo": 1445.27,
+  "games_played": 24,
+  "gd_10": -1.6,
+  "gd_5": -2.2,
+  "ppg_10": 1.1,
+  "ppg_5": 1.4
+ },
+ "Mongolia": {
+  "elo": 983.66,
+  "games_played": 50,
+  "gd_10": -1.9,
+  "gd_5": -2.2,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Montenegro": {
+  "elo": 1549.61,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.6,
+  "ppg_10": 2.0,
+  "ppg_5": 2.2
+ },
+ "Montserrat": {
+  "elo": 1291.74,
+  "games_played": 50,
+  "gd_10": 0.6,
+  "gd_5": 1.4,
+  "ppg_10": 1.8,
+  "ppg_5": 2.4
+ },
+ "Morocco": {
+  "elo": 2023.33,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": 1.0,
+  "ppg_10": 1.9,
+  "ppg_5": 2.0
+ },
+ "Mozambique": {
+  "elo": 1531.76,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": -0.6,
+  "ppg_10": 1.1,
+  "ppg_5": 0.8
+ },
+ "Myanmar": {
+  "elo": 1161.57,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.0,
+  "ppg_10": 1.2,
+  "ppg_5": 1.2
+ },
+ "Namibia": {
+  "elo": 1423.93,
+  "games_played": 50,
+  "gd_10": -1.5,
+  "gd_5": -1.6,
+  "ppg_10": 0.7,
+  "ppg_5": 0.8
+ },
+ "Nepal": {
+  "elo": 1102.17,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": -0.8,
+  "ppg_10": 0.9,
+  "ppg_5": 0.4
+ },
+ "Netherlands": {
+  "elo": 2047.42,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": 0.4,
+  "ppg_10": 1.9,
+  "ppg_5": 1.8
+ },
+ "New Caledonia": {
+  "elo": 1510.57,
+  "games_played": 50,
+  "gd_10": -0.3,
+  "gd_5": -1.2,
+  "ppg_10": 1.3,
+  "ppg_5": 0.6
+ },
+ "New Zealand": {
+  "elo": 1701.3,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -0.4,
+  "ppg_10": 0.9,
+  "ppg_5": 1.0
+ },
+ "Nicaragua": {
+  "elo": 1416.01,
+  "games_played": 50,
+  "gd_10": -1.9,
+  "gd_5": -2.8,
+  "ppg_10": 0.4,
+  "ppg_5": 0.0
+ },
+ "Niger": {
+  "elo": 1490.85,
+  "games_played": 50,
+  "gd_10": -0.4,
+  "gd_5": -0.6,
+  "ppg_10": 0.9,
+  "ppg_5": 0.8
+ },
+ "Nigeria": {
+  "elo": 1826.99,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": -0.6,
+  "ppg_10": 1.6,
+  "ppg_5": 1.0
+ },
+ "Niue": {
+  "elo": 1425.88,
+  "games_played": 2,
+  "gd_10": -16.5,
+  "gd_5": -16.5,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "North Korea": {
+  "elo": 1495.13,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.6,
+  "ppg_10": 0.4,
+  "ppg_5": 0.4
+ },
+ "North Macedonia": {
+  "elo": 1585.51,
+  "games_played": 50,
+  "gd_10": -2.4,
+  "gd_5": -2.8,
+  "ppg_10": 0.3,
+  "ppg_5": 0.0
+ },
+ "North Vietnam": {
+  "elo": 1486.96,
+  "games_played": 24,
+  "gd_10": 1.0,
+  "gd_5": 0.2,
+  "ppg_10": 1.5,
+  "ppg_5": 1.4
+ },
+ "Northern Cyprus": {
+  "elo": 1754.92,
+  "games_played": 39,
+  "gd_10": 2.4,
+  "gd_5": 2.8,
+  "ppg_10": 2.2,
+  "ppg_5": 2.6
+ },
+ "Northern Ireland": {
+  "elo": 1743.6,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.4,
+  "ppg_10": 1.5,
+  "ppg_5": 1.6
+ },
+ "Northern Mariana Islands": {
+  "elo": 967.4,
+  "games_played": 30,
+  "gd_10": -3.4,
+  "gd_5": -0.6,
+  "ppg_10": 0.8,
+  "ppg_5": 1.4
+ },
+ "Norway": {
+  "elo": 1963.3,
+  "games_played": 50,
+  "gd_10": 0.0,
+  "gd_5": -0.6,
+  "ppg_10": 1.5,
+  "ppg_5": 0.6
+ },
+ "Occitania": {
+  "elo": 1684.26,
+  "games_played": 33,
+  "gd_10": 2.7,
+  "gd_5": 1.2,
+  "ppg_10": 2.4,
+  "ppg_5": 2.2
+ },
+ "Oman": {
+  "elo": 1573.19,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -1.0,
+  "ppg_10": 0.9,
+  "ppg_5": 0.8
+ },
+ "Orkney": {
+  "elo": 1397.34,
+  "games_played": 28,
+  "gd_10": 0.1,
+  "gd_5": 0.4,
+  "ppg_10": 1.6,
+  "ppg_5": 1.8
+ },
+ "Padania": {
+  "elo": 1660.55,
+  "games_played": 48,
+  "gd_10": 0.4,
+  "gd_5": 0.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.8
+ },
+ "Pakistan": {
+  "elo": 1118.66,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.4,
+  "ppg_10": 1.2,
+  "ppg_5": 1.4
+ },
+ "Palau": {
+  "elo": 1420.91,
+  "games_played": 2,
+  "gd_10": -8.5,
+  "gd_5": -8.5,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Palestine": {
+  "elo": 1624.54,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 1.4,
+  "ppg_10": 1.5,
+  "ppg_5": 1.8
+ },
+ "Panama": {
+  "elo": 1782.61,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.6,
+  "ppg_10": 1.0,
+  "ppg_5": 0.6
+ },
+ "Panjab": {
+  "elo": 1585.26,
+  "games_played": 19,
+  "gd_10": 1.6,
+  "gd_5": 1.6,
+  "ppg_10": 1.4,
+  "ppg_5": 1.4
+ },
+ "Papua New Guinea": {
+  "elo": 1421.5,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": -0.4,
+  "ppg_10": 1.8,
+  "ppg_5": 1.0
+ },
+ "Paraguay": {
+  "elo": 1926.12,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 0.4,
+  "ppg_10": 1.7,
+  "ppg_5": 1.6
+ },
+ "Parishes of Jersey": {
+  "elo": 1513.87,
+  "games_played": 3,
+  "gd_10": 2.3333,
+  "gd_5": 2.3333,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Peru": {
+  "elo": 1758.86,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.8,
+  "ppg_10": 0.6,
+  "ppg_5": 0.2
+ },
+ "Philippines": {
+  "elo": 1299.53,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": -0.4,
+  "ppg_10": 1.6,
+  "ppg_5": 0.8
+ },
+ "Poland": {
+  "elo": 1739.71,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": 0.6,
+  "ppg_10": 1.2,
+  "ppg_5": 1.0
+ },
+ "Portugal": {
+  "elo": 2143.82,
+  "games_played": 50,
+  "gd_10": 1.1,
+  "gd_5": 0.8,
+  "ppg_10": 2.3,
+  "ppg_5": 2.4
+ },
+ "Provence": {
+  "elo": 1459.28,
+  "games_played": 23,
+  "gd_10": 3.5,
+  "gd_5": 3.8,
+  "ppg_10": 1.2,
+  "ppg_5": 1.2
+ },
+ "Puerto Rico": {
+  "elo": 1379.73,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": 0.4,
+  "ppg_10": 1.8,
+  "ppg_5": 1.8
+ },
+ "Qatar": {
+  "elo": 1588.64,
+  "games_played": 50,
+  "gd_10": -0.9,
+  "gd_5": 0.2,
+  "ppg_10": 1.0,
+  "ppg_5": 1.6
+ },
+ "Quebec": {
+  "elo": 1546.29,
+  "games_played": 3,
+  "gd_10": 7.3333,
+  "gd_5": 7.3333,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Raetia": {
+  "elo": 1384.9,
+  "games_played": 29,
+  "gd_10": -0.1,
+  "gd_5": 1.0,
+  "ppg_10": 1.0,
+  "ppg_5": 1.4
+ },
+ "Republic of Ireland": {
+  "elo": 1777.81,
+  "games_played": 50,
+  "gd_10": 0.9,
+  "gd_5": 0.4,
+  "ppg_10": 1.7,
+  "ppg_5": 1.2
+ },
+ "Republic of St. Pauli": {
+  "elo": 1480.93,
+  "games_played": 4,
+  "gd_10": 1.25,
+  "gd_5": 1.25,
+  "ppg_10": 1.0,
+  "ppg_5": 1.0
+ },
+ "Rhodes": {
+  "elo": 1591.89,
+  "games_played": 18,
+  "gd_10": 0.8,
+  "gd_5": 1.0,
+  "ppg_10": 2.1,
+  "ppg_5": 1.8
+ },
+ "Romani people": {
+  "elo": 1463.31,
+  "games_played": 7,
+  "gd_10": -1.8571,
+  "gd_5": -1.2,
+  "ppg_10": 0.8571,
+  "ppg_5": 0.6
+ },
+ "Romania": {
+  "elo": 1600.26,
+  "games_played": 50,
+  "gd_10": -0.8,
+  "gd_5": -1.8,
+  "ppg_10": 0.7,
+  "ppg_5": 0.6
+ },
+ "Rouet-Provence": {
+  "elo": 1465.38,
+  "games_played": 3,
+  "gd_10": -1.6667,
+  "gd_5": -1.6667,
+  "ppg_10": 0.3333,
+  "ppg_5": 0.3333
+ },
+ "Russia": {
+  "elo": 1850.59,
+  "games_played": 50,
+  "gd_10": 1.3,
+  "gd_5": 2.8,
+  "ppg_10": 1.8,
+  "ppg_5": 2.6
+ },
+ "Rwanda": {
+  "elo": 1498.99,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 1.8,
+  "ppg_10": 1.6,
+  "ppg_5": 2.6
+ },
+ "Ry\u016bky\u016b": {
+  "elo": 1474.42,
+  "games_played": 1,
+  "gd_10": -9.0,
+  "gd_5": -9.0,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "R\u00e9union": {
+  "elo": 1581.14,
+  "games_played": 50,
+  "gd_10": 1.0,
+  "gd_5": 0.0,
+  "ppg_10": 1.8,
+  "ppg_5": 1.2
+ },
+ "Saare County": {
+  "elo": 1340.9,
+  "games_played": 35,
+  "gd_10": -0.5,
+  "gd_5": 0.4,
+  "ppg_10": 1.1,
+  "ppg_5": 1.6
+ },
+ "Saarland": {
+  "elo": 1446.41,
+  "games_played": 9,
+  "gd_10": -1.7778,
+  "gd_5": -2.4,
+  "ppg_10": 0.5556,
+  "ppg_5": 0.2
+ },
+ "Saint Barth\u00e9lemy": {
+  "elo": 1412.04,
+  "games_played": 10,
+  "gd_10": -0.5,
+  "gd_5": 0.6,
+  "ppg_10": 1.3,
+  "ppg_5": 1.4
+ },
+ "Saint Helena": {
+  "elo": 1348.51,
+  "games_played": 8,
+  "gd_10": -4.375,
+  "gd_5": -3.2,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Saint Kitts and Nevis": {
+  "elo": 1321.83,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 1.2,
+  "ppg_10": 1.8,
+  "ppg_5": 2.2
+ },
+ "Saint Lucia": {
+  "elo": 1312.37,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": 0.0,
+  "ppg_10": 1.2,
+  "ppg_5": 1.8
+ },
+ "Saint Martin": {
+  "elo": 1314.56,
+  "games_played": 50,
+  "gd_10": 1.6,
+  "gd_5": 4.0,
+  "ppg_10": 1.8,
+  "ppg_5": 2.4
+ },
+ "Saint Pierre and Miquelon": {
+  "elo": 1287.2,
+  "games_played": 7,
+  "gd_10": -10.8571,
+  "gd_5": -11.6,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Saint Vincent and the Grenadines": {
+  "elo": 1460.2,
+  "games_played": 50,
+  "gd_10": 1.5,
+  "gd_5": 1.8,
+  "ppg_10": 2.4,
+  "ppg_5": 3.0
+ },
+ "Samoa": {
+  "elo": 1214.61,
+  "games_played": 50,
+  "gd_10": -1.8,
+  "gd_5": -2.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.2
+ },
+ "San Marino": {
+  "elo": 908.9,
+  "games_played": 50,
+  "gd_10": -2.5,
+  "gd_5": -3.2,
+  "ppg_10": 0.1,
+  "ppg_5": 0.0
+ },
+ "Sark": {
+  "elo": 1327.73,
+  "games_played": 4,
+  "gd_10": -17.5,
+  "gd_5": -17.5,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Saudi Arabia": {
+  "elo": 1740.51,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 1.6,
+  "ppg_10": 1.9,
+  "ppg_5": 2.6
+ },
+ "Saugeais": {
+  "elo": 1494.73,
+  "games_played": 1,
+  "gd_10": 0.0,
+  "gd_5": 0.0,
+  "ppg_10": 1.0,
+  "ppg_5": 1.0
+ },
+ "Scotland": {
+  "elo": 1790.91,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": -1.0,
+  "ppg_10": 1.3,
+  "ppg_5": 0.8
+ },
+ "Sealand": {
+  "elo": 1483.72,
+  "games_played": 12,
+  "gd_10": -0.1,
+  "gd_5": 1.6,
+  "ppg_10": 1.6,
+  "ppg_5": 2.2
+ },
+ "Seborga": {
+  "elo": 1486.43,
+  "games_played": 1,
+  "gd_10": -1.0,
+  "gd_5": -1.0,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Senegal": {
+  "elo": 1875.51,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 1.2,
+  "ppg_10": 1.4,
+  "ppg_5": 2.0
+ },
+ "Serbia": {
+  "elo": 1751.09,
+  "games_played": 50,
+  "gd_10": -1.5,
+  "gd_5": -1.8,
+  "ppg_10": 0.6,
+  "ppg_5": 0.0
+ },
+ "Seychelles": {
+  "elo": 979.36,
+  "games_played": 50,
+  "gd_10": -3.7,
+  "gd_5": -2.6,
+  "ppg_10": 0.1,
+  "ppg_5": 0.2
+ },
+ "Shetland": {
+  "elo": 1503.24,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": 1.2,
+  "ppg_10": 1.1,
+  "ppg_5": 1.6
+ },
+ "Sierra Leone": {
+  "elo": 1430.05,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": -0.6,
+  "ppg_10": 1.1,
+  "ppg_5": 0.8
+ },
+ "Silesia": {
+  "elo": 1506.85,
+  "games_played": 8,
+  "gd_10": 0.875,
+  "gd_5": 1.6,
+  "ppg_10": 1.375,
+  "ppg_5": 1.6
+ },
+ "Singapore": {
+  "elo": 1310.65,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -1.6,
+  "ppg_10": 1.4,
+  "ppg_5": 1.2
+ },
+ "Sint Maarten": {
+  "elo": 1221.74,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.6,
+  "ppg_10": 1.1,
+  "ppg_5": 0.2
+ },
+ "Slovakia": {
+  "elo": 1736.26,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 1.4,
+  "ppg_10": 2.0,
+  "ppg_5": 2.2
+ },
+ "Slovenia": {
+  "elo": 1788.2,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.4
+ },
+ "Solomon Islands": {
+  "elo": 1390.42,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": 0.0,
+  "ppg_10": 0.6,
+  "ppg_5": 1.2
+ },
+ "Somalia": {
+  "elo": 1077.63,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -0.6,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "Somaliland": {
+  "elo": 1476.6,
+  "games_played": 6,
+  "gd_10": -1.0,
+  "gd_5": -1.2,
+  "ppg_10": 1.1667,
+  "ppg_5": 1.2
+ },
+ "South Africa": {
+  "elo": 1725.39,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 1.4,
+  "ppg_10": 1.7,
+  "ppg_5": 2.4
+ },
+ "South Korea": {
+  "elo": 1850.3,
+  "games_played": 50,
+  "gd_10": 0.6,
+  "gd_5": 0.2,
+  "ppg_10": 1.6,
+  "ppg_5": 1.4
+ },
+ "South Ossetia": {
+  "elo": 1475.86,
+  "games_played": 17,
+  "gd_10": -0.9,
+  "gd_5": 0.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.6
+ },
+ "South Sudan": {
+  "elo": 1236.94,
+  "games_played": 50,
+  "gd_10": -1.3,
+  "gd_5": -1.0,
+  "ppg_10": 0.6,
+  "ppg_5": 0.6
+ },
+ "South Yemen": {
+  "elo": 1469.68,
+  "games_played": 3,
+  "gd_10": -2.3333,
+  "gd_5": -2.3333,
+  "ppg_10": 0.0,
+  "ppg_5": 0.0
+ },
+ "Spain": {
+  "elo": 2358.93,
+  "games_played": 50,
+  "gd_10": 1.6,
+  "gd_5": 1.6,
+  "ppg_10": 3.0,
+  "ppg_5": 3.0
+ },
+ "Sri Lanka": {
+  "elo": 1054.94,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": -0.2,
+  "ppg_10": 1.6,
+  "ppg_5": 1.8
+ },
+ "Sudan": {
+  "elo": 1468.21,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.0,
+  "ppg_10": 1.0,
+  "ppg_5": 1.2
+ },
+ "Suriname": {
+  "elo": 1623.9,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": 0.0,
+  "ppg_10": 1.5,
+  "ppg_5": 1.4
+ },
+ "Surrey": {
+  "elo": 1516.21,
+  "games_played": 1,
+  "gd_10": 2.0,
+  "gd_5": 2.0,
+  "ppg_10": 3.0,
+  "ppg_5": 3.0
+ },
+ "Sweden": {
+  "elo": 1851.78,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.2,
+  "ppg_10": 1.5,
+  "ppg_5": 2.0
+ },
+ "Switzerland": {
+  "elo": 2057.58,
+  "games_played": 50,
+  "gd_10": 1.4,
+  "gd_5": 1.6,
+  "ppg_10": 2.3,
+  "ppg_5": 2.4
+ },
+ "Syria": {
+  "elo": 1599.45,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": -1.4,
+  "ppg_10": 1.5,
+  "ppg_5": 0.4
+ },
+ "Sz\u00e9kely Land": {
+  "elo": 1494.2,
+  "games_played": 27,
+  "gd_10": -0.1,
+  "gd_5": 1.2,
+  "ppg_10": 1.1,
+  "ppg_5": 1.4
+ },
+ "S\u00e1pmi": {
+  "elo": 1478.74,
+  "games_played": 31,
+  "gd_10": -0.9,
+  "gd_5": -1.8,
+  "ppg_10": 0.9,
+  "ppg_5": 0.6
+ },
+ "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+  "elo": 1160.32,
+  "games_played": 50,
+  "gd_10": -1.7,
+  "gd_5": -1.8,
+  "ppg_10": 0.4,
+  "ppg_5": 0.8
+ },
+ "Tahiti": {
+  "elo": 1491.82,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": 0.6,
+  "ppg_10": 1.3,
+  "ppg_5": 1.8
+ },
+ "Taiwan": {
+  "elo": 1061.05,
+  "games_played": 50,
+  "gd_10": -1.5,
+  "gd_5": -3.4,
+  "ppg_10": 0.6,
+  "ppg_5": 0.0
+ },
+ "Tajikistan": {
+  "elo": 1434.0,
+  "games_played": 50,
+  "gd_10": 1.1,
+  "gd_5": 0.0,
+  "ppg_10": 2.0,
+  "ppg_5": 1.4
+ },
+ "Tamil Eelam": {
+  "elo": 1586.54,
+  "games_played": 28,
+  "gd_10": 1.4,
+  "gd_5": 2.8,
+  "ppg_10": 2.4,
+  "ppg_5": 3.0
+ },
+ "Tanzania": {
+  "elo": 1386.33,
+  "games_played": 50,
+  "gd_10": -0.2,
+  "gd_5": 0.4,
+  "ppg_10": 0.6,
+  "ppg_5": 0.8
+ },
+ "Thailand": {
+  "elo": 1533.9,
+  "games_played": 50,
+  "gd_10": 0.7,
+  "gd_5": 1.0,
+  "ppg_10": 1.7,
+  "ppg_5": 1.6
+ },
+ "Tibet": {
+  "elo": 1267.82,
+  "games_played": 21,
+  "gd_10": -2.5,
+  "gd_5": -1.8,
+  "ppg_10": 0.2,
+  "ppg_5": 0.2
+ },
+ "Timor-Leste": {
+  "elo": 891.16,
+  "games_played": 50,
+  "gd_10": -2.6,
+  "gd_5": -2.0,
+  "ppg_10": 0.4,
+  "ppg_5": 0.2
+ },
+ "Togo": {
+  "elo": 1488.5,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": 0.8,
+  "ppg_10": 1.5,
+  "ppg_5": 2.0
+ },
+ "Tonga": {
+  "elo": 1055.91,
+  "games_played": 50,
+  "gd_10": -3.3,
+  "gd_5": 0.2,
+  "ppg_10": 0.6,
+  "ppg_5": 1.2
+ },
+ "Trinidad and Tobago": {
+  "elo": 1491.71,
+  "games_played": 50,
+  "gd_10": -1.7,
+  "gd_5": -1.2,
+  "ppg_10": 0.3,
+  "ppg_5": 0.2
+ },
+ "Tunisia": {
+  "elo": 1639.71,
+  "games_played": 50,
+  "gd_10": -1.5,
+  "gd_5": -2.0,
+  "ppg_10": 0.7,
+  "ppg_5": 0.4
+ },
+ "Turkey": {
+  "elo": 1825.43,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -1.6,
+  "ppg_10": 1.2,
+  "ppg_5": 0.6
+ },
+ "Turkmenistan": {
+  "elo": 1388.0,
+  "games_played": 50,
+  "gd_10": 0.2,
+  "gd_5": 1.0,
+  "ppg_10": 1.6,
+  "ppg_5": 2.4
+ },
+ "Turks and Caicos Islands": {
+  "elo": 970.34,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": 0.4,
+  "ppg_10": 1.3,
+  "ppg_5": 1.8
+ },
+ "Tuvalu": {
+  "elo": 1205.5,
+  "games_played": 39,
+  "gd_10": -4.3,
+  "gd_5": -2.6,
+  "ppg_10": 0.7,
+  "ppg_5": 1.2
+ },
+ "Two Sicilies": {
+  "elo": 1404.28,
+  "games_played": 6,
+  "gd_10": -2.5,
+  "gd_5": -2.4,
+  "ppg_10": 0.5,
+  "ppg_5": 0.6
+ },
+ "Uganda": {
+  "elo": 1570.57,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": 0.2,
+  "ppg_10": 1.2,
+  "ppg_5": 1.6
+ },
+ "Ukraine": {
+  "elo": 1767.72,
+  "games_played": 50,
+  "gd_10": -0.5,
+  "gd_5": -0.8,
+  "ppg_10": 1.3,
+  "ppg_5": 0.8
+ },
+ "United Arab Emirates": {
+  "elo": 1680.47,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 1.2,
+  "ppg_10": 1.5,
+  "ppg_5": 2.0
+ },
+ "United Koreans in Japan": {
+  "elo": 1500.96,
+  "games_played": 12,
+  "gd_10": 1.1,
+  "gd_5": 0.6,
+  "ppg_10": 1.2,
+  "ppg_5": 1.2
+ },
+ "United States": {
+  "elo": 1886.84,
+  "games_played": 50,
+  "gd_10": 1.1,
+  "gd_5": 1.2,
+  "ppg_10": 2.1,
+  "ppg_5": 2.4
+ },
+ "United States Virgin Islands": {
+  "elo": 993.17,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": 0.0,
+  "ppg_10": 1.3,
+  "ppg_5": 1.8
+ },
+ "Uruguay": {
+  "elo": 1952.15,
+  "games_played": 50,
+  "gd_10": 0.4,
+  "gd_5": 1.4,
+  "ppg_10": 1.4,
+  "ppg_5": 1.6
+ },
+ "Uzbekistan": {
+  "elo": 1758.51,
+  "games_played": 50,
+  "gd_10": -0.7,
+  "gd_5": -0.8,
+  "ppg_10": 1.0,
+  "ppg_5": 1.2
+ },
+ "Vanuatu": {
+  "elo": 1445.83,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.4,
+  "ppg_10": 1.7,
+  "ppg_5": 1.4
+ },
+ "Vatican City": {
+  "elo": 1410.28,
+  "games_played": 8,
+  "gd_10": -1.875,
+  "gd_5": -1.2,
+  "ppg_10": 0.375,
+  "ppg_5": 0.4
+ },
+ "Venezuela": {
+  "elo": 1826.27,
+  "games_played": 50,
+  "gd_10": 0.1,
+  "gd_5": 0.0,
+  "ppg_10": 1.2,
+  "ppg_5": 1.0
+ },
+ "Vietnam": {
+  "elo": 1531.06,
+  "games_played": 50,
+  "gd_10": 1.2,
+  "gd_5": 0.8,
+  "ppg_10": 2.2,
+  "ppg_5": 1.8
+ },
+ "Vietnam Republic": {
+  "elo": 1346.55,
+  "games_played": 50,
+  "gd_10": -1.0,
+  "gd_5": -2.2,
+  "ppg_10": 0.8,
+  "ppg_5": 0.0
+ },
+ "Wales": {
+  "elo": 1745.88,
+  "games_played": 50,
+  "gd_10": 0.3,
+  "gd_5": -0.8,
+  "ppg_10": 1.2,
+  "ppg_5": 0.6
+ },
+ "Wallis Islands and Futuna": {
+  "elo": 1294.21,
+  "games_played": 24,
+  "gd_10": -5.1,
+  "gd_5": -6.0,
+  "ppg_10": 0.3,
+  "ppg_5": 0.6
+ },
+ "West Papua": {
+  "elo": 1474.33,
+  "games_played": 2,
+  "gd_10": -3.0,
+  "gd_5": -3.0,
+  "ppg_10": 0.5,
+  "ppg_5": 0.5
+ },
+ "Western Armenia": {
+  "elo": 1518.12,
+  "games_played": 16,
+  "gd_10": 0.7,
+  "gd_5": 0.6,
+  "ppg_10": 1.4,
+  "ppg_5": 1.0
+ },
+ "Western Australia": {
+  "elo": 1395.5,
+  "games_played": 32,
+  "gd_10": -0.3,
+  "gd_5": -0.2,
+  "ppg_10": 1.1,
+  "ppg_5": 1.0
+ },
+ "Western Isles": {
+  "elo": 1436.08,
+  "games_played": 34,
+  "gd_10": -0.8,
+  "gd_5": 0.2,
+  "ppg_10": 1.0,
+  "ppg_5": 1.4
+ },
+ "Western Sahara": {
+  "elo": 1399.97,
+  "games_played": 9,
+  "gd_10": -2.4444,
+  "gd_5": -2.2,
+  "ppg_10": 0.7778,
+  "ppg_5": 1.2
+ },
+ "Yemen": {
+  "elo": 1335.74,
+  "games_played": 50,
+  "gd_10": 1.6,
+  "gd_5": 0.8,
+  "ppg_10": 1.8,
+  "ppg_5": 1.4
+ },
+ "Yemen DPR": {
+  "elo": 1354.54,
+  "games_played": 25,
+  "gd_10": -1.4,
+  "gd_5": -1.4,
+  "ppg_10": 0.6,
+  "ppg_5": 0.8
+ },
+ "Ynys M\u00f4n": {
+  "elo": 1639.82,
+  "games_played": 50,
+  "gd_10": 1.1,
+  "gd_5": 0.8,
+  "ppg_10": 2.7,
+  "ppg_5": 2.4
+ },
+ "Yorkshire": {
+  "elo": 1553.22,
+  "games_played": 7,
+  "gd_10": 2.2857,
+  "gd_5": 2.0,
+  "ppg_10": 2.2857,
+  "ppg_5": 2.4
+ },
+ "Yoruba Nation": {
+  "elo": 1483.5,
+  "games_played": 2,
+  "gd_10": -0.5,
+  "gd_5": -0.5,
+  "ppg_10": 0.5,
+  "ppg_5": 0.5
+ },
+ "Yugoslavia": {
+  "elo": 1870.65,
+  "games_played": 50,
+  "gd_10": 0.8,
+  "gd_5": -0.2,
+  "ppg_10": 1.4,
+  "ppg_5": 1.2
+ },
+ "Zambia": {
+  "elo": 1563.73,
+  "games_played": 50,
+  "gd_10": -1.1,
+  "gd_5": -1.6,
+  "ppg_10": 0.8,
+  "ppg_5": 0.8
+ },
+ "Zanzibar": {
+  "elo": 1535.0,
+  "games_played": 50,
+  "gd_10": 0.5,
+  "gd_5": 0.4,
+  "ppg_10": 2.0,
+  "ppg_5": 2.0
+ },
+ "Zimbabwe": {
+  "elo": 1486.76,
+  "games_played": 50,
+  "gd_10": -0.1,
+  "gd_5": 0.4,
+  "ppg_10": 1.3,
+  "ppg_5": 1.8
+ },
+ "\u00c5land Islands": {
+  "elo": 1473.51,
+  "games_played": 50,
+  "gd_10": -0.6,
+  "gd_5": -1.0,
+  "ppg_10": 1.0,
+  "ppg_5": 0.8
+ }
+}
