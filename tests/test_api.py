@@ -31,10 +31,10 @@ def tiny_model(tmp_path):
     X = rng.normal(size=(600, len(FEATURE_NAMES)))
     X[:, 2] = rng.normal(0, 300, 600)  # elo_diff
     y = np.where(X[:, 2] > 150, 0, np.where(X[:, 2] < -150, 2, 1))
-    model = xgb.XGBClassifier(objective="multi:softprob", num_class=3, n_estimators=30, max_depth=2)
-    model.fit(X, y)
+    params = {"objective": "multi:softprob", "num_class": 3, "max_depth": 2}
+    booster = xgb.train(params, xgb.DMatrix(X, label=y), num_boost_round=30)
     path = tmp_path / "xgb_model.json"
-    model.save_model(path)
+    booster.save_model(path)
     return path
 
 
