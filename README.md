@@ -1,9 +1,13 @@
-# World Cup 2026 Predictor
+# World Cup Predictor
 
 A side project where I tried to predict who wins the 2026 World Cup. It
 gives every team an Elo rating, uses a Dixon-Coles model to get the
 probability of each scoreline, and then simulates the whole 48-team
 tournament 10,000 times to see how often each team gets to each round.
+
+Part 2 (further down) retrains everything on ~50,000 real international
+results, adds an XGBoost model, and serves predictions as an API on AWS
+Lambda.
 
 Here's what it spits out:
 
@@ -86,25 +90,128 @@ To check if the model is any good, it goes through old matches in date
 order and predicts each one *before* updating the ratings with the result,
 so it can't cheat by already knowing the score.
 
+## Part 2: real data + XGBoost
+
+The first version only ran on made-up sample data, so the accuracy number
+didn't really mean anything. So I switched to real results and added a
+machine learning model on top.
+
+**Data.** [martj42/international_results](https://github.com/martj42/international_results)
+(CC0) has every men's international match since 1872, almost 50,000 games.
+I copied `results.csv` into `data/raw/` and `src/real_data.py` converts it into
+the same format the backtest already uses (friendly / qualifier /
+continental / World Cup, plus neutral venue and host country).
+
+**Features** (`src/features.py`). I go through every match in date order and
+record the features *before* the result is known, then update Elo and form
+afterwards, so nothing leaks from the future. For each match:
+
+- both teams' Elo and the gap between them
+- the Dixon-Coles win/draw/loss probabilities from part 1
+- points per game and goal difference over the last 5 and last 10 games
+- neutral venue, whether either team is the host, how important the game is
+
+**Model** (`src/train_xgb.py`). A multiclass XGBoost classifier that outputs
+win/draw/loss probabilities. Split by date:
+
+| | dates | matches |
+|---|---|---|
+| train | 1990 - 2015 | 22,347 |
+| validation (early stopping only) | 2016 - 2017 | 1,844 |
+| test (never touched while training) | Jan 2018 - Oct 2026 | 8,630 |
+
+Matches before 1990 are only used to warm up the ratings.
+
 ## How accurate is it?
 
-Results on the 600 sample matches:
+On the 8,630 test matches:
 
-| | Accuracy | Brier score |
-|---|---|---|
-| Just guessing 1/3 for each outcome | - | 0.667 |
-| Every team starts at 1500 (`--cold-start`) | 58.8% | 0.631 |
-| Starting from the seed ratings (default) | 67.4% | 0.604 |
+| model | accuracy (no draws) | accuracy (3-way) | log-loss | Brier |
+|---|---|---|---|---|
+| always guess the base rates | 61.9% | 47.7% | 1.051 | 0.634 |
+| Elo + Dixon-Coles (part 1) | 78.2% | 60.3% | 0.888 | 0.521 |
+| XGBoost | 78.2% | 60.2% | **0.870** | **0.512** |
 
-Accuracy = out of the games that weren't draws, how often the team the
-model favoured actually won (50% would be a coin flip).
+World Cup finals only (2018, 2022 and 2026, 232 matches):
 
-Brier score = how close the predicted win/draw/loss probabilities were to
-what actually happened. Lower is better. It's never going to get near 0
-because football is pretty random, and even the "perfect" model (the exact
-one that generated the sample data) only gets 69.7% and 0.588.
+| model | accuracy (no draws) | accuracy (3-way) | log-loss | Brier |
+|---|---|---|---|---|
+| Elo + Dixon-Coles | 76.7% | 59.5% | 0.959 | 0.567 |
+| XGBoost | 73.9% | 57.3% | **0.947** | **0.559** |
 
-## Data
+Accuracy (no draws) = out of the games that weren't draws, how often the team
+the model favoured actually won. Log-loss and Brier score measure how good the
+probabilities are, lower is better.
+
+Honestly the interesting part is that XGBoost doesn't pick more winners than
+plain Elo, it's tied overall and a bit worse on World Cup games. What it does
+do is give better probabilities (lower log-loss and Brier on both test sets),
+mostly because the form features help it tell when a draw is likely. Elo is a
+really strong baseline for international football. Draws are still the hard
+part, the 3-way accuracy is stuck around 60%.
+
+To reproduce:
+
+```
+pip install -r requirements.txt
+python src/train_xgb.py
+```
+
+It saves the model to `models/xgb_model.json`, the numbers above to
+`models/metrics.json`, and every team's latest Elo + form to
+`models/team_features.json`.
+
+(The old synthetic-data backtest from part 1 still works with
+`python src/backtest.py`, it got 67.4% on the fake data.)
+
+## Serving it as an API on AWS
+
+`src/api.py` is a Lambda handler behind API Gateway:
+
+```
+GET /predict?home=Brazil&away=France&neutral=true&stage=world_cup_group
+```
+
+```json
+{"home": "Brazil", "away": "France", "neutral": true, "stage": "world_cup_group",
+ "probabilities": {"home_win": 0.41, "draw": 0.27, "away_win": 0.32}}
+```
+
+- the model file is stored in **S3** and loaded once per cold start, then
+  kept in memory for warm requests
+- each team's current Elo and form live in **DynamoDB** (one item per team)
+- **CloudWatch** alarms on errors, p95 duration over 1s, and throttles
+  (`deploy/template.yaml`)
+- it runs as a container image because the normal xgboost package is too big
+  for a zip Lambda, the image uses `xgboost-cpu`
+
+Deploying (needs the AWS SAM CLI and Docker):
+
+```
+cd deploy
+sam build
+sam deploy --guided
+python ../scripts/load_team_features.py --table <TeamTableName> --bucket <ModelBucketName>
+```
+
+Without AWS env vars the handler falls back to the files in `models/`, which
+is how the tests run.
+
+## Tests and CI
+
+`pytest` runs everything, including `tests/test_api.py` which uses moto to
+fake S3 and DynamoDB. A couple of tests I care about the most:
+
+- `test_features_only_use_past_results` changes the score of a match and
+  checks its features don't change (no leakage)
+- `test_api_features_match_training_features` checks the API builds the
+  exact same feature vector as training, otherwise the deployed model would
+  silently get inputs in the wrong order
+
+GitHub Actions runs the tests on every push (`.github/workflows/tests.yml`).
+
+## Data (part 1 simulator)
+
 
 Everything is in `data/` and you can edit it:
 
@@ -137,21 +244,34 @@ python src/backtest.py --data path/to/your_results.csv
 - Penalties are slightly weighted towards the better team, but in reality
   shootouts are closer to 50/50.
 - Ratings don't change during a simulated tournament.
+- The tournament simulator still uses the demo ratings and groups in
+  `data/`. Next step is to feed it the real Elo from `team_features.json`.
+- The raw data doesn't say if a World Cup game is group stage or knockout,
+  so they're all weighted the same.
 
 ## Files
 
 ```
-run_simulation.py           runs the simulation and prints the odds
+run_simulation.py           runs the tournament simulation and prints the odds
 src/
   elo.py                    Elo ratings
   dixon_coles.py            scoreline model
   simulate.py               group stage + knockouts
-  backtest.py               accuracy check
-  generate_sample_data.py   makes the fake match history
+  backtest.py               accuracy check (part 1)
+  real_data.py              converts the real results dataset
+  features.py               walk-forward features for every match
+  train_xgb.py              trains + evaluates XGBoost vs Elo
+  api.py                    Lambda handler
+  generate_sample_data.py   makes the fake match history (part 1)
   data_loading.py           loads the files in data/
+scripts/
+  load_team_features.py     pushes team features to DynamoDB, model to S3
+deploy/
+  template.yaml             SAM template (Lambda, API Gateway, DynamoDB, S3, alarms)
+  Dockerfile                Lambda container image
+models/                     trained model, metrics, team features
 data/
-  seed_ratings.csv
-  groups.json
-  sample_historical_matches.csv
+  raw/results.csv           real international results (CC0)
+  seed_ratings.csv, groups.json, sample_historical_matches.csv
 tests/                      pytest tests
 ```
