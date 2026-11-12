@@ -1,0 +1,120 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: World Cup match predictor - Lambda + API Gateway + DynamoDB + S3
+
+Parameters:
+  AlarmEmail:
+    Type: String
+    Default: ""
+    Description: optional email for alarm notifications
+
+Conditions:
+  HasEmail: !Not [!Equals [!Ref AlarmEmail, ""]]
+
+Resources:
+  ModelBucket:
+    Type: AWS::S3::Bucket
+
+  TeamTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: team
+          AttributeType: S
+      KeySchema:
+        - AttributeName: team
+          KeyType: HASH
+
+  PredictFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      MemorySize: 1024
+      Timeout: 15
+      Environment:
+        Variables:
+          MODEL_BUCKET: !Ref ModelBucket
+          MODEL_KEY: xgb_model.json
+          TEAM_TABLE: !Ref TeamTable
+      Policies:
+        - S3ReadPolicy:
+            BucketName: !Ref ModelBucket
+        - DynamoDBReadPolicy:
+            TableName: !Ref TeamTable
+      Events:
+        Predict:
+          Type: Api
+          Properties:
+            Path: /predict
+            Method: get
+    Metadata:
+      DockerContext: ..
+      Dockerfile: deploy/Dockerfile
+
+  AlarmTopic:
+    Type: AWS::SNS::Topic
+    Condition: HasEmail
+    Properties:
+      Subscription:
+        - Protocol: email
+          Endpoint: !Ref AlarmEmail
+
+  ErrorsAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmDescription: Lambda is throwing errors
+      Namespace: AWS/Lambda
+      MetricName: Errors
+      Dimensions:
+        - Name: FunctionName
+          Value: !Ref PredictFunction
+      Statistic: Sum
+      Period: 300
+      EvaluationPeriods: 1
+      Threshold: 1
+      ComparisonOperator: GreaterThanOrEqualToThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: !If [HasEmail, [!Ref AlarmTopic], !Ref "AWS::NoValue"]
+
+  LatencyAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmDescription: p95 duration above 1 second
+      Namespace: AWS/Lambda
+      MetricName: Duration
+      Dimensions:
+        - Name: FunctionName
+          Value: !Ref PredictFunction
+      ExtendedStatistic: p95
+      Period: 300
+      EvaluationPeriods: 3
+      Threshold: 1000
+      ComparisonOperator: GreaterThanThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: !If [HasEmail, [!Ref AlarmTopic], !Ref "AWS::NoValue"]
+
+  ThrottlesAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmDescription: Lambda is being throttled
+      Namespace: AWS/Lambda
+      MetricName: Throttles
+      Dimensions:
+        - Name: FunctionName
+          Value: !Ref PredictFunction
+      Statistic: Sum
+      Period: 300
+      EvaluationPeriods: 1
+      Threshold: 1
+      ComparisonOperator: GreaterThanOrEqualToThreshold
+      TreatMissingData: notBreaching
+      AlarmActions: !If [HasEmail, [!Ref AlarmTopic], !Ref "AWS::NoValue"]
+
+Outputs:
+  ApiUrl:
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/predict"
+  ModelBucketName:
+    Value: !Ref ModelBucket
+  TeamTableName:
+    Value: !Ref TeamTable
