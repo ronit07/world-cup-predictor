@@ -63,9 +63,11 @@ def get_model():
 
         path = "/tmp/xgb_model.json"
         boto3.client("s3").download_file(bucket, os.environ.get("MODEL_KEY", "xgb_model.json"), path)
-    model = xgb.XGBClassifier()
-    model.load_model(path)
-    _model = model
+    # plain Booster instead of XGBClassifier, because XGBClassifier needs
+    # scikit-learn installed and that would make the Lambda image bigger
+    booster = xgb.Booster()
+    booster.load_model(path)
+    _model = booster
     return _model
 
 
@@ -150,7 +152,9 @@ def handler(event, context):
         _as_bool(params.get("away_is_host"), False),
         stage,
     )
-    probs = get_model().predict_proba(np.array([feats], dtype=float))[0]
+    import xgboost as xgb
+
+    probs = get_model().predict(xgb.DMatrix(np.array([feats], dtype=float)))[0]
 
     elapsed_ms = (time.perf_counter() - start) * 1000
     logger.info(json.dumps({"home": home_name, "away": away_name, "latency_ms": round(elapsed_ms, 2)}))
